@@ -1,0 +1,923 @@
+GISAID_Accession,GISAID_clade,Genebank_accession,Date,Clade,Region,Country,Division,Country of exposure,Division of exposure,Host,Age,Sex
+EPI_ISL_721988,B.1.1.28,?,2020-05-13,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,58,Female
+EPI_ISL_527862,B.1.1.248,?,2020-03-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,55,Male
+EPI_ISL_517879,B.1.369,MT966142.1,2020-06-11,20C,North America,USA,Florida,USA,Florida,Human,?,?
+EPI_ISL_527861,B.1.1.248,?,2020-04-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,82,Male
+EPI_ISL_543470,B.1.324,?,2020-06-18,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_470638,B.1.1.248,?,2020-04-17,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,46,Female
+EPI_ISL_515552,B.1.1.248,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Female
+EPI_ISL_722010,B.1.1.28,?,2020-05-12,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,93,Female
+EPI_ISL_717926,B.1.1.28,?,2020-10-26,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,40,Male
+EPI_ISL_574590,B.1.1.248,?,2020-04-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,27,Female
+EPI_ISL_717826,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,30,Male
+EPI_ISL_765596,B.1.369,?,2020-09-28,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_735421,B.1.1.28,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,65,Male
+EPI_ISL_476313,B.1.1.248,?,2020-03-31,20B,South America,Brazil,Paraná,Brazil,Paraná,Human,?,?
+EPI_ISL_543544,B.1.369,?,2020-06-19,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_605879,B.1.1.143,?,2020-10-13,20B,Oceania,Australia,Western Australia,Australia,Western Australia,Human,?,?
+EPI_ISL_623131,B.1.1.248,?,2020-05-14,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,48,Male
+EPI_ISL_476282,B.1.1.248,?,2020-03-28,20B,South America,Brazil,Paraná,Brazil,Paraná,Human,?,?
+EPI_ISL_768702,B.1.1.28,?,2020-11,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_476296,B.1.1.143,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_583501,B.1.1.143,?,2020-07-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,79,Female
+EPI_ISL_779165,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,72,Male
+EPI_ISL_476345,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_779163,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,69,Male
+EPI_ISL_545414,B.1.324,?,2020-06-02,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_476318,B.1.1.248,?,2020-04-01,20B,South America,Brazil,Paraná,Brazil,Paraná,Human,?,?
+EPI_ISL_547433,B.1.1.248,?,2020-07-24,20B,Europe,United Kingdom,Gibraltar,United Kingdom,Gibraltar,Human,27,Male
+EPI_ISL_544221,B.1.324,?,2020-06-10,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_591449,B.1.1.248,?,2020-07,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_515541,B.1.1.248,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,46,Male
+EPI_ISL_770561,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,24,Female
+EPI_ISL_493868,B.1.1.248,?,2020-05-05,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_770557,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,28,Female
+EPI_ISL_693215,B.1.1.248,?,2020-07-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,36,Male
+EPI_ISL_693224,B.1.1.248,?,2020-07-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,66,Male
+EPI_ISL_708745,B.1.1.28,?,2020-03-29,20B,Oceania,Australia,Western Australia,Australia,Western Australia,Human,?,?
+EPI_ISL_717816,B.1.1.28,?,2020-09-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,40,Male
+EPI_ISL_583504,B.1.1.248,?,2020-06-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,71,Female
+EPI_ISL_515554,B.1.1.248,?,2020-03-19,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,83,Female
+EPI_ISL_623130,B.1.1.248,?,2020-04-22,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,48,Male
+EPI_ISL_471541,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,74,Male
+EPI_ISL_602758,B.1.1.206,?,2020-09-04,20B,Africa,South Africa,KwaZulu-Natal,South Africa,KwaZulu-Natal,Human,7,Male
+EPI_ISL_699149,A,?,2020-06-11,19B,Asia,United Arab Emirates,Abu Dhabi,United Arab Emirates,Abu Dhabi,Human,?,?
+EPI_ISL_753286,B.1.324,?,2020-11-04,20C,North America,USA,California,USA,California,Human,?,Female
+EPI_ISL_630998,B.1.1.248,?,2020-10-22,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_750175,B.1.1.28,?,2020-07-16,20B,South America,Uruguay,Rocha,Uruguay,Rocha,Human,?,?
+EPI_ISL_471581,B.1.1.94,?,2020-04-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,59,Male
+EPI_ISL_523990,B.1.1.248,?,2020-04-19,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,64,Female
+EPI_ISL_754422,B.1.369,?,2020-12-01,20C,North America,USA,New York,USA,New York,Human,56,?
+EPI_ISL_511103,B.1.1.28,?,2020-04-28,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_583502,B.1.1.248,?,2020-06-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,35,Female
+EPI_ISL_640101,B.1.5,?,2020-04-28,20A,Africa,South Africa,Western Cape Province,South Africa,Western Cape Province,Human,38,Female
+EPI_ISL_729813,B.1.1.28,?,2020-03-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,46,Female
+EPI_ISL_723520,B.1.369,MW411898.1,2020-10-06,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_513532,B.1.1.248,?,2020-04-16,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,38,Female
+EPI_ISL_763569,B.1.258,?,2020-12-02,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_779155,B.1.1.28,?,2020-11-23,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,30,Female
+EPI_ISL_515565,B.1.1.248,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,71,Male
+EPI_ISL_722035,B.1.1.143,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,32,Female
+EPI_ISL_550290,B.1.177,?,2020-08-30,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_732791,B.1.177,?,2020-11-01,20E (EU1),Europe,Spain,La Rioja,Spain,La Rioja,Human,37,Male
+EPI_ISL_534326,B.1.1.248,?,2020-05-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,40,Female
+EPI_ISL_722023,B.1.1.28,?,2020-04-03,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,46,Female
+EPI_ISL_549833,B.1.1.248,?,2020-08-30,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_495483,B.1.369,MT795890.1,2020-07-03,20C,North America,USA,Wisconsin,USA,Wisconsin,Human,?,?
+EPI_ISL_693220,B.1.1.94,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,38,Male
+EPI_ISL_602307,B.1.324,?,2020-08-03,20C,North America,USA,Florida,USA,Florida,Human,61,Male
+EPI_ISL_476469,B.1.1.248,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_729808,B.1.1.28,?,2020-03-19,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,41,Male
+EPI_ISL_640130,B.1.1,?,2020-09-23,20B,Africa,South Africa,Western Cape Province,South Africa,Western Cape Province,Human,45,Female
+EPI_ISL_644891,B.1.369,MW280505.1,2020-10-07,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_527865,B.1.1.248,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,83,Male
+EPI_ISL_693207,B.1.1.248,?,2020-06-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,89,Female
+EPI_ISL_471556,B.1.1,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,73,Female
+EPI_ISL_523969,B.1.1.248,?,2020-03-31,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,27,Female
+EPI_ISL_603033,B.1.1.248,?,2020-07-13,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,29,Male
+EPI_ISL_534311,B.1.1.248,?,2020-04-27,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,84,Female
+EPI_ISL_732909,B.1.1.28,?,2020-11,20B,Europe,Poland,Poland,Poland,Poland,Human,67,Female
+EPI_ISL_672719,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,54,Female
+EPI_ISL_523965,B.1.1.248,?,2020-03-19,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,68,Female
+EPI_ISL_734205,B.1.369,MW406681.1,2020-11-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_770608,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,45,Female
+EPI_ISL_583496,B.1.1.248,?,2020-06-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,67,Male
+EPI_ISL_776767,B.1.1.28,?,2020-11-27,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,21,Female
+EPI_ISL_717957,B.1.1.28,?,2020-11-05,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,30,Female
+EPI_ISL_470608,B.1.1.248,?,2020-04-03,20B,South America,Brazil,Para,Brazil,Para,Human,52,Male
+EPI_ISL_476448,B.1.1.248,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_757218,B.1.177,?,2020-11-18,20E (EU1),Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_471562,B.1.1.248,?,2020-04-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,86,Female
+EPI_ISL_693212,B.1.1.248,?,2020-07-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,78,Male
+EPI_ISL_770562,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,78,Female
+EPI_ISL_735432,B.1.1.307,?,2020-07-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,31,Male
+EPI_ISL_735398,B.1.1.28,?,2020-07-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,50,Male
+EPI_ISL_735433,B.1.1.28,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,67,Male
+EPI_ISL_770591,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,26,Male
+EPI_ISL_476152,B.1.1.248,?,2020-04-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_644835,B.1.369,MW280479.1,2020-08-29,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_624646,B.1.258.3,?,2020-10-20,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_717921,B.1.1.28,?,2020-10-26,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,31,Male
+EPI_ISL_476419,B.1.1.248,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_478111,B.1.1.248,?,2020-05-27,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_476346,B.1.1.73,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_515547,B.1.1.248,?,2020-03-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,65,Male
+EPI_ISL_672722,B.1.1.248,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,31,Female
+EPI_ISL_717944,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,?,Male
+EPI_ISL_476464,B.1.1.248,?,2020-03-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_585429,B.1.177.11,?,2020-09-23,20E (EU1),Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_493851,B.1.1.248,?,2020-05-01,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_583503,B.1.1.248,?,2020-06-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Male
+EPI_ISL_717947,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,22,Male
+EPI_ISL_768654,B.1.1.28,?,2020-11,20B,Asia,Japan,Japan,Germany,Germany,Human,?,?
+EPI_ISL_545384,B.1.324,?,2020-06-01,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_736906,B.1.1.28,?,2020-12,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_765756,B.1.369,?,2020-10-13,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_476243,B.1.1.248,?,2020-03-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_502875,B.1.1.248,?,2020-06-24,20B,South America,Brazil,Pernambuco,Brazil,Pernambuco,Human,?,Male
+EPI_ISL_572379,B.1.1.248,?,2020-05-07,20B,South America,Brazil,Pernambuco,Brazil,Pernambuco,Human,?,?
+EPI_ISL_476423,B.1.1.248,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_714911,B.1.258,?,2020-11-09,20A,Europe,Denmark,Denmark,Denmark,Denmark,Human,?,?
+EPI_ISL_721987,B.1.1.28,?,2020-04-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,26,Male
+EPI_ISL_667633,B.1.1.248,?,2020-07,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_545375,B.1.324,?,2020-06-01,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_583498,B.1.1.248,?,2020-06-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,59,Male
+EPI_ISL_635994,B.1,?,2020-09-01,20A,North America,USA,California,USA,California,Human,?,?
+EPI_ISL_476376,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_770580,B.1.1,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,50,Male
+EPI_ISL_476395,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_523993,B.1.1.143,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Male
+EPI_ISL_717931,B.1.1.28,?,2020-10-27,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,34,Female
+EPI_ISL_729805,B.1.1.28,?,2020-03-17,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,35,Male
+EPI_ISL_717822,B.1.1.28,?,2020-10-26,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,57,Male
+EPI_ISL_476337,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_597522,B.1.36,?,2020-10-12,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_735413,B.1.1.28,?,2020-06-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,44,Male
+EPI_ISL_647648,B.1.177,?,2020-11-01,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_717808,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,?,Female
+EPI_ISL_602755,B.1.1.206,?,2020-09-04,20B,Africa,South Africa,KwaZulu-Natal,South Africa,KwaZulu-Natal,Human,?,Female
+EPI_ISL_545351,B.1.324,?,2020-06-04,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_717942,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,16,Female
+EPI_ISL_693208,B.1.1.248,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,37,Male
+EPI_ISL_717817,B.1.1.28,?,2020-09-04,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,48,Female
+EPI_ISL_476262,B.1.1.248,?,2020-03-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_458140,B.1.1.248,?,2020-04-07,20B,South America,Brazil,Para,Brazil,Para,Human,63,Male
+EPI_ISL_527857,B.1.1.248,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,79,Male
+EPI_ISL_591036,B.1.369,MW157251.1,2020-09-28,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_515544,B.1.1.248,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,67,Male
+EPI_ISL_657942,B.1.258,?,2020-11-08,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_547579,B.1.1.28,?,2020-07-07,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,68,Male
+EPI_ISL_636934,B.1.1.248,?,2020-07,20B,North America,Canada,Ontario,Canada,Ontario,Human,?,Female
+EPI_ISL_735402,B.1.1.28,?,2020-07-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,43,Male
+EPI_ISL_770582,B.1.1.143,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,37,Male
+EPI_ISL_476349,B.1.1.248,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_717936,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,23,Male
+EPI_ISL_476341,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_667650,B.1.1.248,?,2020-07,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_767211,B.1.36,?,2020-12-08,20A,Europe,United Kingdom,Wales,United Kingdom,Wales,Human,?,?
+EPI_ISL_476399,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_527868,B.1.1.248,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,57,Male
+EPI_ISL_735403,B.1.1.28,?,2020-07-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,35,Female
+EPI_ISL_735412,B.1.1.28,?,2020-06-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,22,Female
+EPI_ISL_647760,B.1.177,?,2020-11-01,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_693239,B.1.1.248,?,2020-06-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,38,Male
+EPI_ISL_735431,B.1.1.28,?,2020-07-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,36,Male
+EPI_ISL_534324,B.1.1.143,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,28,Male
+EPI_ISL_722032,B.1.1.28,?,2020-04-13,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,62,Female
+EPI_ISL_732044,B.1.1.28,?,2020-11-15,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_734203,B.1.369,MW406679.1,2020-11-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_767525,B.1.369,?,2020-12-22,20C,North America,USA,New York,USA,New York,Human,44,?
+EPI_ISL_534316,B.1.1.248,?,2020-05-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,82,Male
+EPI_ISL_492036,B.1.1.248,?,2020-06-01,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,23,Male
+EPI_ISL_476375,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_574591,B.1.1.248,?,2020-04-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,42,Female
+EPI_ISL_468318,B.1.1.248,?,2020-04-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,38,Male
+EPI_ISL_583492,B.1.1.248,?,2020-04-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,52,Male
+EPI_ISL_778843,B.1.1.28,?,2020-11-20,20B,South America,Argentina,Argentina,Argentina,Argentina,Human,49,Male
+EPI_ISL_524468,B.1.1.248,?,2020-05-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,82,Male
+EPI_ISL_574592,B.1.1.248,?,2020-03-31,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,70,Female
+EPI_ISL_523970,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,78,Female
+EPI_ISL_770570,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,75,Female
+EPI_ISL_590564,B.1.1.248,?,2020-09-03,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_734865,B.1.1.28,?,2020-08-01,20B,Europe,Belgium,Halle-Vilvoorde,Belgium,Halle-Vilvoorde,Human,16,Male
+EPI_ISL_770568,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,32,Female
+EPI_ISL_754079,B.1.1.28,?,2020-12-14,20B,Asia,Singapore,Singapore,Singapore,Singapore,Human,35,Female
+EPI_ISL_751712,B.1.369,?,2020-11-02,20C,North America,USA,New Hampshire,USA,New Hampshire,Human,?,Female
+EPI_ISL_770572,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,77,Female
+EPI_ISL_470653,B.1.1.248,?,2020-03-18,20B,South America,Brazil,Santa Catarina,Brazil,Santa Catarina,Human,63,Female
+EPI_ISL_717830,B.1.1.28,?,2020-11-05,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,58,Female
+EPI_ISL_770628,B.1.1.28,?,2020-11-28,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,26,Male
+EPI_ISL_770619,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,41,Female
+EPI_ISL_717954,B.1.1.28,?,2020-11-04,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,41,Female
+EPI_ISL_637811,B.1.1,?,2020-10-05,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_717949,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,43,Male
+EPI_ISL_541386,B.1.1.248,?,2020-04-24,20B,South America,Brazil,Sergipe,Brazil,Sergipe,Human,36,Female
+EPI_ISL_729840,B.1.1.28,?,2020-05-28,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,39,Male
+EPI_ISL_579220,B.1.1.143,?,2020-04-04,20B,Oceania,New Zealand,Canterbury,New Zealand,Canterbury,Human,?,Male
+EPI_ISL_770579,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,33,Male
+EPI_ISL_776758,B.1.1.28,?,2020-04-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,51,Male
+EPI_ISL_729845,B.1.1,?,2020-07-28,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,19,Female
+EPI_ISL_754425,B.1.369,?,2020-12-01,20C,North America,USA,New York,USA,New York,Human,31,?
+EPI_ISL_476162,B.1.1.248,?,2020-04-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_672703,B.1.1.248,?,2020-04-07,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,54,Male
+EPI_ISL_476287,B.1.1.248,?,2020-03-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_770585,B.1.1,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,64,Male
+EPI_ISL_476445,B.1.1.248,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_523982,B.1.1.248,?,2020-03-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Female
+EPI_ISL_476157,B.1.1.248,?,2020-04-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_685539,,?,2020-04,20B,Asia,Japan,Japan,Japan,Japan,Human,?,?
+EPI_ISL_515520,B.1.1.248,?,2020-03-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,74,Male
+EPI_ISL_735400,B.1.1.28,?,2020-07-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,74,Male
+EPI_ISL_770560,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,19,Female
+EPI_ISL_722051,B.1.1.28,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,78,Male
+EPI_ISL_541355,B.1.1.248,?,2020-04-13,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,59,Female
+EPI_ISL_770601,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,31,Male
+EPI_ISL_590506,B.1.1.248,?,2020-09-04,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_729852,B.1.1.28,?,2020-08-07,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,5,Female
+EPI_ISL_768688,B.1.2,?,2020-12,20G,Asia,Japan,Japan,Canada,Canada,Human,?,?
+EPI_ISL_476412,B.1.1.143,?,2020-04-28,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_732180,B.1.1.28,?,2020-11-12,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_530869,B.1.1.54,?,2020-08-07,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_527860,B.1.1.248,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,68,Male
+EPI_ISL_524785,B.1.1.248,?,2020-05-05,20B,South America,Brazil,Para,Brazil,Para,Human,34,Male
+EPI_ISL_717927,B.1.1.28,?,2020-10-27,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,87,Male
+EPI_ISL_755642,B.1.1.28,?,2020-12-05,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,45,Male
+EPI_ISL_717825,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,59,Female
+EPI_ISL_765760,B.1.369,?,2020-10-16,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_722134,B.1.1.28,?,2020-04-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,37,Female
+EPI_ISL_717794,B.1.1.28,?,2020-07-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,37,Female
+EPI_ISL_665333,B.1.36,?,2020-10-09,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_765866,B.1.324,?,2020-11-24,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_672717,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,56,Female
+EPI_ISL_770564,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,21,Female
+EPI_ISL_523984,B.1.1.248,?,2020-04-19,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,83,Male
+EPI_ISL_591372,B.1.1.248,?,2020-05,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_729744,B.1.1.28,?,2020-09-12,20B,North America,USA,Connecticut,USA,Connecticut,Human,?,?
+EPI_ISL_693223,B.1.1.248,?,2020-07-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,30,Male
+EPI_ISL_693221,B.1.1.143,?,2020-06-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,46,Female
+EPI_ISL_693242,B.1.1.248,?,2020-06-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,47,Female
+EPI_ISL_431180,B.1.1.248,?,2020-03-15,20B,Asia,China,Fujian,China,Fujian,Human,56,Male
+EPI_ISL_693200,B.1.1.248,?,2020-04-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,61,Male
+EPI_ISL_735399,B.1.1.28,?,2020-04-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,57,Male
+EPI_ISL_683969,B.1.1.248,?,2020-11-13,20B,North America,USA,New York,USA,New York,Human,40,Male
+EPI_ISL_693205,B.1.1.248,?,2020-06-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,40,Male
+EPI_ISL_631036,B.1.1.248,?,2020-10-21,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_667738,B.1.1.248,?,2020-10,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_734201,B.1.369,MW406677.1,2020-11-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_721601,B.1.1.28,?,2020-11,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_770603,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,25,Female
+EPI_ISL_776750,B.1.1.28,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,38,Male
+EPI_ISL_524783,B.1.1.248,?,2020-04-28,20B,South America,Brazil,Para,Brazil,Para,Human,25,Female
+EPI_ISL_541354,B.1.1.248,?,2020-04-07,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,43,Female
+EPI_ISL_693238,B.1.1.248,?,2020-06-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,23,Male
+EPI_ISL_717820,B.1.1.28,?,2020-10-26,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,61,Female
+EPI_ISL_735429,B.1.1.28,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,43,Male
+EPI_ISL_754913,B.1.1.28,?,2020-09-09,20B,Europe,Poland,Masovia,Poland,Masovia,Human,?,?
+EPI_ISL_721990,B.1.1.28,?,2020-05-12,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,42,Male
+EPI_ISL_476489,B.1.1.248,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_721642,B.1.1.281,?,2020-06-23,20B,Asia,India,Maharashtra,India,Maharashtra,Human,11,Male
+EPI_ISL_583490,B.1.1.248,?,2020-04-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,69,Male
+EPI_ISL_721716,B.1.258,?,2020-11-25,20A,Europe,Switzerland,Aargau,Switzerland,Aargau,Human,?,?
+EPI_ISL_729803,B.1.1.28,?,2020-08-14,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,1,Male
+EPI_ISL_699029,A,?,2020-06-25,19B,Asia,United Arab Emirates,Abu Dhabi,United Arab Emirates,Abu Dhabi,Human,?,?
+EPI_ISL_750176,B.1.1.28,?,2020-07-08,20B,South America,Uruguay,Artigas,Uruguay,Artigas,Human,?,?
+EPI_ISL_523981,B.1.1.248,?,2020-04-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,83,Male
+EPI_ISL_603024,B.1.1.28,?,2020-06-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,89,Female
+EPI_ISL_732183,B.1.1.28,?,2020-11-13,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_717943,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,41,Male
+EPI_ISL_693237,B.1.1.248,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,38,Female
+EPI_ISL_730467,B.1.36.10,?,2020-10-07,20A,Asia,Jordan,Irbid,Jordan,Irbid,Human,?,Unknown
+EPI_ISL_614022,B.1.369,MW217336.1,2020-08-20,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_515564,B.1.1.143,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,43,Female
+EPI_ISL_765679,B.1.369,?,2020-07-20,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_547573,B.1.1.248,?,2020-06-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,88,Female
+EPI_ISL_667634,B.1.1.94,?,2020-07,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_717829,B.1.1.28,?,2020-11-04,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,?,Male
+EPI_ISL_545355,B.1.324,?,2020-06-03,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_468312,B.1.1.248,?,2020-03-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,83,Female
+EPI_ISL_722020,B.1.1.28,?,2020-04-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,44,Female
+EPI_ISL_471542,B.1.1.28,?,2020-04-03,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,74,Male
+EPI_ISL_574583,B.1.1.248,?,2020-04-27,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Male
+EPI_ISL_416036,B.1.1.248,?,2020-03-05,20B,South America,Brazil,São Paulo,Italy,Italy,Human,22,Male
+EPI_ISL_551467,B.1.1,?,2020-06-22,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_690635,B.1.1.248,?,2020-06,20B,Asia,Japan,Japan,Japan,Japan,Human,?,?
+EPI_ISL_686307,B.1.1,?,2020-08,20B,Asia,Japan,Japan,Japan,Japan,Human,?,?
+EPI_ISL_545366,B.1.324,?,2020-06-01,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_672735,B.1.1.248,?,2020-04-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,61,Female
+EPI_ISL_547435,B.1.1.248,?,2020-07-27,20B,Europe,United Kingdom,Gibraltar,United Kingdom,Gibraltar,Human,45,Female
+EPI_ISL_515559,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,97,Female
+EPI_ISL_574577,B.1.1.248,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,41,Male
+EPI_ISL_770614,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,41,Male
+EPI_ISL_717953,B.1.1.28,?,2020-11-04,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,20,Female
+EPI_ISL_672721,B.1.1.248,?,2020-04-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,37,Male
+EPI_ISL_458141,B.1.1.248,?,2020-04-26,20B,South America,Brazil,Para,Brazil,Para,Human,38,Male
+EPI_ISL_754427,B.1.369,?,2020-12-01,20C,North America,USA,New York,USA,New York,Human,35,?
+EPI_ISL_770592,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,48,Female
+EPI_ISL_693243,B.1.1.248,?,2020-06-27,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,61,Female
+EPI_ISL_545364,B.1.324,?,2020-06-03,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_722040,B.1.1.28,?,2020-05-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,59,Male
+EPI_ISL_572371,B.1.1.248,?,2020-05-06,20B,South America,Brazil,Pernambuco,Brazil,Pernambuco,Human,?,?
+EPI_ISL_549084,B.1.1.248,?,2020-08-10,20B,Europe,Norway,Oslo,Norway,Oslo,Human,?,?
+EPI_ISL_523957,B.1.1.248,?,2020-04-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,76,Male
+EPI_ISL_717951,B.1.1.28,?,2020-11-04,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,26,Male
+EPI_ISL_755699,B.1.1.28,?,2020-11-24,20B,North America,Canada,Ontario,Canada,Ontario,Human,?,?
+EPI_ISL_770571,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,20,Male
+EPI_ISL_648286,B.1.369,MW280164.1,2020-10-17,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_729799,B.1.1.28,?,2020-08-15,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,26,Female
+EPI_ISL_630140,B.1.177.17,?,2020-10-21,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_615917,B.1.177,?,2020-08-31,20E (EU1),Europe,Denmark,Nordjylland,Denmark,Nordjylland,Human,?,?
+EPI_ISL_468315,B.1.1.94,?,2020-04-12,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,33,Female
+EPI_ISL_476343,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_476396,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_527863,B.1.1.248,?,2020-04-12,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,83,Female
+EPI_ISL_471548,B.1.1.143,?,2020-04-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,57,Male
+EPI_ISL_468316,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,85,Male
+EPI_ISL_776768,B.1.1.143,?,2020-12-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,55,Male
+EPI_ISL_523971,B.1.1.248,?,2020-03-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,69,Female
+EPI_ISL_754426,B.1.369,?,2020-12-01,20C,North America,USA,New York,USA,New York,Human,37,?
+EPI_ISL_476394,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_516672,B.1.37,MT913108.1,2020-04-30,20A,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_717812,B.1.1.28,?,2020-06-01,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,20,Male
+EPI_ISL_775529,B.1.1.28,?,2020-12-14,20B,Europe,Norway,Viken,Norway,Viken,Human,?,?
+EPI_ISL_530902,B.1.1.54,?,2020-08-07,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_467356,B.1.1.248,?,2020-04-24,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,29,Female
+EPI_ISL_603036,B.1.1.248,?,2020-07-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,92,Male
+EPI_ISL_672704,B.1.1.248,?,2020-04-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,48,Female
+EPI_ISL_693229,B.1.1.248,?,2020-06-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,21,Male
+EPI_ISL_619577,B.1.1.143,?,2020-10-12,20B,Europe,Denmark,Nordjylland,Denmark,Nordjylland,Human,?,?
+EPI_ISL_486429,B.1.1.248,MT738173.1,2020-03-20,20B,South America,Brazil,Brazil,Brazil,Brazil,Human,?,?
+EPI_ISL_722022,B.1.1.28,?,2020-05-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,34,Female
+EPI_ISL_732116,B.1.1.143,?,2020-12-02,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_583499,B.1.1.143,?,2020-06-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,90,Female
+EPI_ISL_574588,B.1.1.248,?,2020-04-27,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,66,Male
+EPI_ISL_721994,B.1.1.28,?,2020-04-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,21,Female
+EPI_ISL_476259,B.1.1.248,?,2020-03-29,20B,South America,Brazil,Santa Catarina,Brazil,Santa Catarina,Human,?,?
+EPI_ISL_524787,B.1.1.248,?,2020-04-15,20B,South America,Brazil,Para,Brazil,Para,Human,32,Male
+EPI_ISL_523983,B.1.1.248,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,61,Female
+EPI_ISL_672734,B.1.1.248,?,2020-04-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,55,Male
+EPI_ISL_640129,B.1.1,?,2020-09-23,20B,Africa,South Africa,Western Cape Province,South Africa,Western Cape Province,Human,48,Male
+EPI_ISL_609971,B.1.369,MW195531.1,2020-09-03,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_471552,B.1.1.248,?,2020-04-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,64,Female
+EPI_ISL_722884,B.1.177,?,2020-10-25,20E (EU1),Europe,Italy,Basilicata,Italy,Basilicata,Human,26,Male
+EPI_ISL_667649,B.1.1.248,?,2020-07,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_542486,B.1.369,MT840184.1,2020-05-25,20C,North America,USA,Virginia,USA,Virginia,Human,42,Male
+EPI_ISL_717824,B.1.1,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,27,Female
+EPI_ISL_672713,B.1.1.248,?,2020-04-13,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,70,Male
+EPI_ISL_667659,B.1.1.248,?,2020-08,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_593711,B.1.1.248,?,2020-07-31,20B,Oceania,Australia,New South Wales,Australia,New South Wales,Human,?,?
+EPI_ISL_770584,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,48,Female
+EPI_ISL_723494,B.1.1.28,MW411871.1,2020-11-12,20B,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_717821,B.1.1.28,?,2020-10-26,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,44,Male
+EPI_ISL_628886,B.1.324,?,2020-10-20,20C,North America,USA,Michigan,USA,Michigan,Human,?,?
+EPI_ISL_471549,B.1.1.248,?,2020-04-13,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,73,Male
+EPI_ISL_493852,B.1.1.248,?,2020-05-06,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_476397,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_467359,B.1.1.248,?,2020-04-24,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,36,Female
+EPI_ISL_722013,B.1.1.28,?,2020-04-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,24,Male
+EPI_ISL_603021,B.1.1,?,2020-07-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,63,Female
+EPI_ISL_770566,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,21,Male
+EPI_ISL_476388,B.1.1.248,?,2020-04-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_722038,B.1.1.28,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,51,Female
+EPI_ISL_717823,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,49,Female
+EPI_ISL_735423,B.1.1.28,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,52,Female
+EPI_ISL_729801,B.1.1.28,?,2020-07-13,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,60,Male
+EPI_ISL_776752,B.1.1.28,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,53,Female
+EPI_ISL_476254,B.1.1.143,?,2020-03-27,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_722045,B.1.1.28,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,43,Male
+EPI_ISL_437019,B.1.5,?,2020-03-28,20A,Europe,Denmark,Denmark,Denmark,Denmark,Human,?,?
+EPI_ISL_732914,B.1.1.28,?,2020-11,20B,Europe,Poland,Poland,Poland,Poland,Human,68,Female
+EPI_ISL_735426,B.1.1.28,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,49,Female
+EPI_ISL_574579,B.1.1.248,?,2020-04-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,65,Male
+EPI_ISL_583497,B.1.1.248,?,2020-06-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,84,Female
+EPI_ISL_515548,B.1.1.248,?,2020-03-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,79,Male
+EPI_ISL_534318,B.1.1.248,?,2020-05-03,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,63,Male
+EPI_ISL_648295,B.1.324,MW280176.1,2020-10-21,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_779160,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,22,Male
+EPI_ISL_755655,B.1.1.28,?,2020-12-11,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,25,Male
+EPI_ISL_543480,B.1,?,2020-06-18,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_770623,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,39,Male
+EPI_ISL_583500,B.1.1.248,?,2020-06-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,63,Female
+EPI_ISL_598633,B.1.36,?,2020-10-06,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_672710,B.1.1.248,?,2020-04-11,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,68,Female
+EPI_ISL_741517,B.1.1.28,?,2020-12-20,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_603022,B.1.1,?,2020-07-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,69,Male
+EPI_ISL_647431,B.1.177,?,2020-11-03,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_722907,B.1.177,?,2020-10-19,20E (EU1),Europe,Italy,Basilicata,Italy,Basilicata,Human,91,Male
+EPI_ISL_603028,B.1.1.248,?,2020-06-30,20B,South America,Brazil,Bahia,Brazil,Bahia,Human,107,Female
+EPI_ISL_523980,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,45,Male
+EPI_ISL_523975,B.1.1.248,?,2020-04-03,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,33,Male
+EPI_ISL_524466,B.1.1.28,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,82,Male
+EPI_ISL_693197,B.1.1.248,?,2020-05-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,76,Male
+EPI_ISL_515553,B.1.1.248,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,71,Male
+EPI_ISL_635782,B.1,?,2020-07-04,20A,Asia,Jordan,Amman,Jordan,Amman,Human,?,?
+EPI_ISL_776764,B.1.1.28,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,25,Female
+EPI_ISL_513546,B.1.1.248,?,2020-04-17,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,54,Female
+EPI_ISL_545365,B.1.324,?,2020-06-01,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_524786,B.1.1.248,?,2020-05-01,20B,South America,Brazil,Para,Brazil,Para,Human,58,Male
+EPI_ISL_523986,B.1.1.248,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,80,Male
+EPI_ISL_734270,B.1.369,MW411639.1,2020-10-27,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_717813,B.1.1.28,?,2020-06-01,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,35,Female
+EPI_ISL_583505,B.1.1.248,?,2020-06-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,92,Female
+EPI_ISL_722135,B.1.1.28,?,2020-04-14,20B,South America,Brazil,Paraná,Brazil,Paraná,Human,25,Female
+EPI_ISL_733121,B.1.1.28,?,2020-10-07,20B,Europe,Russia,Yaroslavl,Russia,Yaroslavl,Human,44,Female
+EPI_ISL_476418,B.1.1.248,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_591538,B.1.1.248,?,2020-06,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_754423,B.1.369,?,2020-12-01,20C,North America,USA,New York,USA,New York,Human,65,?
+EPI_ISL_693236,B.1.1.248,?,2020-07-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,31,Female
+EPI_ISL_735422,B.1.1.28,?,2020-06-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,69,Male
+EPI_ISL_750177,B.1.1,?,2020-07-17,20B,South America,Uruguay,Cerro Largo,Uruguay,Cerro Largo,Human,?,?
+EPI_ISL_722031,B.1.1.28,?,2020-04-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,31,Female
+EPI_ISL_718592,B.1.177,?,2020-12-10,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_523985,B.1.1.143,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,90,Male
+EPI_ISL_547437,B.1.1.248,?,2020-07-22,20B,Europe,United Kingdom,Gibraltar,United Kingdom,Gibraltar,Human,27,Female
+EPI_ISL_717815,B.1.1.28,?,2020-09-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,21,Female
+EPI_ISL_629164,B.1.1.248,?,2020-10-21,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_526551,B.1.370,?,2020-07-21,20C,North America,USA,Oregon,USA,Oregon,Human,41,Female
+EPI_ISL_722037,B.1.1.28,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,38,Female
+EPI_ISL_722046,B.1.1.28,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,53,Female
+EPI_ISL_747337,B.1.1.28,?,2020-09-12,20B,Asia,South Korea,South Korea,Brazil,Brazil,Human,46,Male
+EPI_ISL_672720,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,44,Male
+EPI_ISL_762502,B.1.1,?,2020-12-15,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_470602,B.1.1.248,?,2020-04-01,20B,South America,Brazil,Para,Brazil,Para,Human,46,Female
+EPI_ISL_760963,B.1.1.28,?,2020-12-05,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_717925,B.1.1.28,?,2020-10-09,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,28,Female
+EPI_ISL_770609,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,26,Female
+EPI_ISL_614065,B.1.369,MW217376.1,2020-09-28,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_722050,B.1.1.28,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,45,Female
+EPI_ISL_722012,B.1.1.143,?,2020-04-03,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,27,Male
+EPI_ISL_476156,B.1.1.248,?,2020-04-07,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_476398,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_735401,B.1.1.28,?,2020-07-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,37,Female
+EPI_ISL_721570,B.1.1.28,?,2020-11,,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_721995,B.1.1.28,?,2020-05-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,38,Female
+EPI_ISL_755195,B.1.1.28,?,2020-12-04,20B,North America,USA,California,USA,California,Human,?,Unknown
+EPI_ISL_476452,B.1.1.248,?,2020-03-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_478094,B.1.1.248,?,2020-05-24,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_699146,A,?,2020-06-11,19B,Asia,United Arab Emirates,Abu Dhabi,United Arab Emirates,Abu Dhabi,Human,27,Male
+EPI_ISL_471647,B.1.1.248,?,2020-04-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,93,Male
+EPI_ISL_667626,B.1.1.248,?,2020-07,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_755646,B.1.1.28,?,2020-12-07,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,66,Male
+EPI_ISL_468311,B.1.1.248,?,2020-03-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Female
+EPI_ISL_770618,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,71,Female
+EPI_ISL_693226,B.1.1.248,?,2020-06-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,45,Male
+EPI_ISL_527866,B.1.1.248,?,2020-04-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,48,Male
+EPI_ISL_672739,B.1.1.248,?,2020-04-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,79,Female
+EPI_ISL_717930,B.1.1,?,2020-10-27,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,43,Female
+EPI_ISL_735408,B.1.1.28,?,2020-06-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,34,Male
+EPI_ISL_581703,B.1.1.248,?,2020-04-15,20B,Europe,Switzerland,Basel-Stadt,Switzerland,Basel-Stadt,Human,?,Female
+EPI_ISL_755647,B.1.1.143,?,2020-12-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,76,Female
+EPI_ISL_470610,B.1.1.248,?,2020-04-03,20B,South America,Brazil,Para,Brazil,Para,Human,20,Female
+EPI_ISL_693195,B.1.1.248,?,2020-03-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,46,Female
+EPI_ISL_500483,B.1.1.248,?,2020-04-08,20B,South America,Brazil,Pernambuco,Brazil,Pernambuco,Human,56,Male
+EPI_ISL_770556,B.1.1.28,?,2020-11-23,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,39,Female
+EPI_ISL_591352,B.1.1.248,?,2020-06,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_476266,B.1.1.248,?,2020-03-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_652142,B.1.1.248,?,2020-10-22,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_755643,B.1.1.28,?,2020-12-07,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,76,Male
+EPI_ISL_515561,B.1.1.248,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,70,Male
+EPI_ISL_776765,B.1.1.28,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,55,Male
+EPI_ISL_534321,B.1.1.248,?,2020-05-07,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,57,Male
+EPI_ISL_583494,B.1.1.248,?,2020-04-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,50,Male
+EPI_ISL_602757,B.1.1.206,?,2020-09-04,20B,Africa,South Africa,KwaZulu-Natal,South Africa,KwaZulu-Natal,Human,?,?
+EPI_ISL_584429,B.1.36,?,2020-09-23,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_770607,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,36,Male
+EPI_ISL_765707,B.1.369,?,2020-08-11,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_523955,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,81,Male
+EPI_ISL_755645,B.1.1.28,?,2020-12-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,35,Male
+EPI_ISL_461678,B.1.1.248,?,2020-04-25,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_471648,B.1.1.248,?,2020-04-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,58,Male
+EPI_ISL_729310,B.1.1.28,?,2020-11-24,20B,North America,Canada,Ontario,Canada,Ontario,Human,?,?
+EPI_ISL_722024,B.1.1.28,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,36,Female
+EPI_ISL_722025,B.1.1.94,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,30,Female
+EPI_ISL_515566,B.1.1.248,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,83,Male
+EPI_ISL_693235,B.1.1.248,?,2020-06-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,48,Male
+EPI_ISL_755640,B.1.1.28,?,2020-12-03,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,20,Female
+EPI_ISL_524465,B.1.1.248,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,47,Male
+EPI_ISL_458147,B.1.1.248,?,2020-04-24,20B,South America,Brazil,Para,Brazil,Para,Human,45,Male
+EPI_ISL_574598,B.1.1.248,?,2020-06-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,94,Female
+EPI_ISL_693203,B.1.1.248,?,2020-04-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,43,Male
+EPI_ISL_470651,B.1.1.248,?,2020-03-20,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,35,Male
+EPI_ISL_672706,B.1.1.248,?,2020-04-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,88,Female
+EPI_ISL_591411,B.1.1.248,?,2020-07,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_471582,B.1.1.248,?,2020-04-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,63,Female
+EPI_ISL_468307,B.1.1.143,?,2020-04-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,66,Male
+EPI_ISL_476413,B.1.1.248,?,2020-04-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_672695,B.1.1.94,?,2020-04-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,31,Female
+EPI_ISL_476417,B.1.1.248,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_574589,B.1.1.248,?,2020-04-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,61,Male
+EPI_ISL_468308,B.1.1.143,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,51,Male
+EPI_ISL_734206,B.1.369,MW406682.1,2020-11-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_770563,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,61,Female
+EPI_ISL_609972,B.1.369,MW195532.1,2020-09-03,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_722004,B.1.1.28,?,2020-04-03,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,54,Female
+EPI_ISL_770627,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,27,Male
+EPI_ISL_476462,B.1.1.248,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_770559,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,53,Female
+EPI_ISL_729861,B.1.1.28,?,2020-08-16,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,40,Female
+EPI_ISL_770604,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,33,Female
+EPI_ISL_672702,B.1.1.248,?,2020-04-07,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,54,Female
+EPI_ISL_476379,B.1.1.248,?,2020-04-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_693206,B.1.1.248,?,2020-06-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,91,Male
+EPI_ISL_543648,B.1.324,?,2020-06-17,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_767944,B.1,?,2020-12-18,20A,Europe,Switzerland,Aargau,Switzerland,Aargau,Human,?,?
+EPI_ISL_468313,B.1.1.248,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,79,Male
+EPI_ISL_473651,B.1.1.248,?,2020-05-08,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_770587,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,50,Female
+EPI_ISL_541359,B.1.1.248,?,2020-04-20,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,25,Male
+EPI_ISL_602306,B.1.324,?,2020-08-31,20C,North America,USA,Florida,USA,Florida,Human,55,Male
+EPI_ISL_522491,B.1.1.248,?,2020-07-11,20B,Asia,South Korea,South Korea,South Korea,South Korea,Human,30,Female
+EPI_ISL_770565,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,47,Male
+EPI_ISL_476446,B.1.1.248,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_722018,B.1.1.28,?,2020-04-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,52,Female
+EPI_ISL_693198,B.1.1.248,?,2020-05-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,31,Male
+EPI_ISL_468321,B.1.1.248,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Male
+EPI_ISL_722002,B.1.1.28,?,2020-04-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,27,Male
+EPI_ISL_593698,B.1.1.248,?,2020-07-04,20B,Oceania,Australia,New South Wales,Australia,New South Wales,Human,?,?
+EPI_ISL_524462,B.1.1.248,?,2020-03-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,68,Female
+EPI_ISL_693257,B.1.1.248,?,2020-03-23,20B,Oceania,Australia,Australia,Australia,Australia,Human,?,?
+EPI_ISL_730661,B.1.1.28,?,2020-12-08,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_779166,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,68,Female
+EPI_ISL_751201,B.1.1.28,?,2020-07-20,20B,South America,Uruguay,Rivera,Uruguay,Rivera,Human,?,?
+EPI_ISL_419703,B.1.369,?,2020-03-18,20C,North America,USA,New York,USA,New York,Human,49,Female
+EPI_ISL_733300,B.1.1.28,?,2020-09-23,20B,Europe,Russia,Kalmykia,Russia,Kalmykia,Human,57,Female
+EPI_ISL_776755,B.1.1.28,?,2020-04-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,58,Male
+EPI_ISL_770599,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,43,Male
+EPI_ISL_582342,B.1.1.248,?,2020-03-30,20B,North America,Canada,Manitoba,Canada,Manitoba,Human,?,Male
+EPI_ISL_699150,A,?,2020-06-11,19B,Asia,United Arab Emirates,Abu Dhabi,United Arab Emirates,Abu Dhabi,Human,35,Male
+EPI_ISL_530929,B.1.1.54,?,2020-08-07,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_760740,B.1.1.28,?,2020-12-17,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_707998,B.1.177,?,2020-10-18,20E (EU1),Europe,Germany,Saarland,Germany,Saarland,Human,35,Female
+EPI_ISL_693225,B.1.1.248,?,2020-07-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,54,Male
+EPI_ISL_476267,B.1.1,?,2020-03-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_541343,B.1.1.248,?,2020-03-20,20B,South America,Brazil,Paraná,United Arab Emirates,United Arab Emirates,Human,63,Male
+EPI_ISL_643821,B.1.258,?,2020-10-30,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_708530,B.1.1.44,?,2020-11-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,41,Female
+EPI_ISL_476370,B.1.1.248,?,2020-04-06,20B,South America,Brazil,Paraná,Brazil,Paraná,Human,?,?
+EPI_ISL_690818,B.1.1.248,?,2020-03,20B,Asia,Japan,Japan,Japan,Japan,Human,?,?
+EPI_ISL_523977,B.1.1.248,?,2020-04-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,40,Male
+EPI_ISL_717948,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,39,Male
+EPI_ISL_603652,B.1.258,LR962947.1,2020-10-14,20A,Europe,Switzerland,Basel-Land,Switzerland,Basel-Land,Human,?,?
+EPI_ISL_476384,B.1.1.248,?,2020-04-05,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_693204,B.1.1.248,?,2020-06-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,35,Male
+EPI_ISL_755641,B.1.1.28,?,2020-12-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,37,Female
+EPI_ISL_746686,B.1.1.28,?,2020-08-22,20B,South America,Chile,Region Metropolitana de Santiago,Chile,Region Metropolitana de Santiago,Human,49,Female
+EPI_ISL_470604,B.1.1.248,?,2020-04-02,20B,South America,Brazil,Para,Brazil,Para,Human,35,Male
+EPI_ISL_509841,B.1.369,MT846525.1,2020-05-21,20C,North America,USA,Wisconsin,USA,Wisconsin,Human,?,?
+EPI_ISL_541372,B.1.1.248,?,2020-03-27,20B,South America,Brazil,Sergipe,Brazil,Sergipe,Human,61,Female
+EPI_ISL_721959,B.1.258,?,2020-11-26,20A,Europe,Switzerland,Zürich,Switzerland,Zürich,Human,?,?
+EPI_ISL_648284,B.1.369,MW280162.1,2020-10-17,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_735424,B.1.1.28,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,56,Female
+EPI_ISL_693244,B.1.1.248,?,2020-07-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,49,Male
+EPI_ISL_755696,B.1.1.28,?,2020-11-24,20B,North America,Canada,Ontario,Canada,Ontario,Human,?,?
+EPI_ISL_770602,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,32,Female
+EPI_ISL_722009,B.1.1.28,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,22,Female
+EPI_ISL_614059,B.1.369,MW217369.1,2020-09-16,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_523967,B.1.1.143,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,91,Female
+EPI_ISL_770576,B.1.1.28,?,2020-11-23,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,42,Female
+EPI_ISL_593687,B.1.1.248,?,2020-07-02,20B,Oceania,Australia,New South Wales,Australia,New South Wales,Human,?,?
+EPI_ISL_717819,B.1.1.28,?,2020-10-09,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,30,Female
+EPI_ISL_768705,B.1.1.28,?,2020-12,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_667639,B.1.1.248,?,2020-06,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_547576,B.1.1.143,?,2020-06-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,76,Male
+EPI_ISL_534320,B.1.1.248,?,2020-05-05,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,81,Female
+EPI_ISL_476268,B.1.1.248,?,2020-03-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_603038,B.1.1.28,?,2020-07-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,79,Male
+EPI_ISL_534317,B.1.1.248,?,2020-05-05,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,62,Female
+EPI_ISL_767616,B.1.369,?,2020-12-21,20C,North America,USA,New York,USA,New York,Human,32,Male
+EPI_ISL_718344,B.1.1.28,?,2020-12-10,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_524887,B.1.369,MT937823.1,2020-07-15,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_677211,B.1.1.28,MW338781.1,2020-11-12,20B,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_776761,B.1.1.28,?,2020-03-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,44,Male
+EPI_ISL_476312,B.1.1.248,?,2020-03-31,20B,South America,Brazil,Paraná,Brazil,Paraná,Human,?,?
+EPI_ISL_767619,B.1.369,?,2020-12-21,20C,North America,USA,New York,USA,New York,Human,29,Male
+EPI_ISL_731736,B.1.1.28,?,2020-12-09,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_693231,B.1.1.248,?,2020-06-27,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,51,Female
+EPI_ISL_717811,B.1.1.28,?,2020-04-16,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,?,?
+EPI_ISL_693199,B.1.1.248,?,2020-05-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,78,Male
+EPI_ISL_717923,B.1.1.28,?,2020-11-05,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,27,Male
+EPI_ISL_524464,B.1.1.248,?,2020-03-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,77,Female
+EPI_ISL_761920,B.1.1,?,2020-12-17,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_672748,B.1.1.248,?,2020-04-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,40,Female
+EPI_ISL_672705,B.1.1.248,?,2020-04-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,41,Male
+EPI_ISL_770621,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,14,Female
+EPI_ISL_574594,B.1.1.94,?,2020-07-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,93,Male
+EPI_ISL_476380,B.1.1.248,?,2020-04-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_648285,B.1.369,MW280163.1,2020-10-17,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_765814,B.1.369,?,2020-11-10,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_770595,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,33,Male
+EPI_ISL_515545,B.1.1.143,?,2020-03-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,69,Male
+EPI_ISL_574582,B.1.1.248,?,2020-04-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,63,Male
+EPI_ISL_693240,B.1.1.248,?,2020-06-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,58,Female
+EPI_ISL_614031,B.1.240,MW217345.1,2020-08-19,20A,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_693201,B.1.1.248,?,2020-04-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,78,Female
+EPI_ISL_747345,B.1.36.1,?,2020-09-25,20A,Asia,South Korea,South Korea,India,India,Human,51,Male
+EPI_ISL_545394,B.1.324,?,2020-06-02,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_717950,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,?,Female
+EPI_ISL_468314,B.1.1.248,?,2020-03-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,57,Male
+EPI_ISL_476461,B.1.1.248,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_762436,B.1.1,?,2020-12-15,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_694007,B.1.258,?,2020-11-19,20A,Europe,Switzerland,Zürich,Switzerland,Zürich,Human,?,?
+EPI_ISL_704846,B.1.177,?,2020-11-23,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_672750,B.1.1,?,2020-04-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,30,Male
+EPI_ISL_722131,B.1.1.28,?,2020-04-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,65,Male
+EPI_ISL_732181,B.1.1.28,?,2020-11-13,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_770588,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,58,Male
+EPI_ISL_770581,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,68,Male
+EPI_ISL_770577,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,24,Male
+EPI_ISL_476386,B.1.1.248,?,2020-04-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_500875,B.1.1.248,?,2020-04-13,20B,South America,Brazil,Pernambuco,Brazil,Pernambuco,Human,42,Female
+EPI_ISL_722029,B.1.1.28,?,2020-04-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,52,Female
+EPI_ISL_574580,B.1.1.248,?,2020-04-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,52,Female
+EPI_ISL_717946,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,?,Female
+EPI_ISL_476167,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_523978,B.1.1.248,?,2020-04-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,77,Male
+EPI_ISL_732179,B.1.1.28,?,2020-11-12,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_513514,B.1.1.248,?,2020-04-08,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,73,Female
+EPI_ISL_591450,B.1.1.248,?,2020-07,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_717945,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,?,Female
+EPI_ISL_527870,B.1.1.248,?,2020-04-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,63,Female
+EPI_ISL_476322,B.1.1.248,?,2020-04-03,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_541344,B.1.1.248,?,2020-03-19,20B,South America,Brazil,Paraná,Brazil,Brazilian Cruise,Human,37,Male
+EPI_ISL_729806,B.1.1.28,?,2020-03-16,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,45,Male
+EPI_ISL_523988,B.1.1.248,?,2020-04-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,57,Male
+EPI_ISL_476400,B.1.1.248,?,2020-04-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_515546,B.1.1.143,?,2020-03-19,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,50,Female
+EPI_ISL_729285,B.1.1.28,?,2020-11-24,20B,North America,Canada,Ontario,Canada,Ontario,Human,?,?
+EPI_ISL_650548,B.1.177,?,2020-11-12,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_672700,B.1.1.248,?,2020-04-13,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,77,Female
+EPI_ISL_732856,B.1.1.28,?,2020-11,20B,Europe,Poland,Poland,Poland,Poland,Human,67,Female
+EPI_ISL_693209,B.1.1.248,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,80,Male
+EPI_ISL_770626,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,42,Female
+EPI_ISL_573682,B.1.1.315,?,2020-09-16,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_476159,B.1.1.248,?,2020-04-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_766625,B.1.1.94,?,2020-09-14,20B,Europe,Sweden,Stockholm,Sweden,Stockholm,Human,16,Female
+EPI_ISL_779162,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,32,Female
+EPI_ISL_770625,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,45,Male
+EPI_ISL_574597,B.1.1.248,?,2020-06-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,92,Male
+EPI_ISL_770553,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,34,Female
+EPI_ISL_693196,B.1.1.248,?,2020-05-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,82,Male
+EPI_ISL_717956,B.1.1.28,?,2020-11-05,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,45,Male
+EPI_ISL_776757,B.1.1.28,?,2020-04-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,56,Female
+EPI_ISL_779159,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,34,Male
+EPI_ISL_734262,B.1.369,MW411632.1,2020-11-04,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_603654,B.1.258,LR962956.1,2020-10-14,20A,Europe,Switzerland,Basel-Land,Switzerland,Basel-Land,Human,?,?
+EPI_ISL_476488,B.1.1.248,?,2020-03-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_754424,B.1.369,?,2020-12-01,20C,North America,USA,New York,USA,New York,Human,28,?
+EPI_ISL_636726,B.1.36,?,2020-10-22,20A,Europe,United Kingdom,England,United Kingdom,England,Human,14,Male
+EPI_ISL_775224,B.1.1.91,?,2020-12,20B,Africa,Morocco,Salé,Morocco,Salé,Human,29,Male
+EPI_ISL_476447,B.1.1.248,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_515551,B.1.1.248,?,2020-03-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,45,Male
+EPI_ISL_699115,A,?,2020-06-14,19B,Asia,United Arab Emirates,Abu Dhabi,United Arab Emirates,Abu Dhabi,Human,21,Male
+EPI_ISL_476441,B.1.1.248,?,2020-03-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_673528,B.1.1.248,?,2020-11-15,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_693228,B.1.1.248,?,2020-06-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,26,Female
+EPI_ISL_770569,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,20,Male
+EPI_ISL_458146,B.1.1.248,?,2020-04-23,20B,South America,Brazil,Para,Brazil,Para,Human,38,Female
+EPI_ISL_734204,B.1.369,MW406680.1,2020-11-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_436990,B.1.5,?,2020-03-26,20A,Europe,Denmark,Denmark,Denmark,Denmark,Human,?,?
+EPI_ISL_732184,B.1.1.28,?,2020-11-13,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_735417,B.1.1.28,?,2020-06-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,29,Female
+EPI_ISL_717827,B.1.1.28,?,2020-11-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,29,Female
+EPI_ISL_431240,B.1.1.248,?,2020-03-16,20B,Asia,China,Fujian,China,Fujian,Human,33,Female
+EPI_ISL_526282,B.1.1,?,2020-06-09,20B,North America,Canada,Ontario,Canada,Ontario,Human,?,?
+EPI_ISL_623468,B.1.36,?,2020-10-22,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_770594,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,68,Male
+EPI_ISL_670856,B.1.177,?,2020-11-02,20E (EU1),Europe,Denmark,Nordjylland,Denmark,Nordjylland,Human,?,?
+EPI_ISL_735397,B.1.1.28,?,2020-07-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,43,Male
+EPI_ISL_722047,B.1.1.28,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,59,Female
+EPI_ISL_523958,B.1.1.248,?,2020-04-15,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,60,Female
+EPI_ISL_635778,B.1,?,2020-07-04,20A,Asia,Jordan,Amman,Jordan,Amman,Human,?,?
+EPI_ISL_667578,B.1.1.248,?,2020-08,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_770558,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,33,Female
+EPI_ISL_779167,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,41,Male
+EPI_ISL_735419,B.1.1.28,?,2020-07-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,59,Female
+EPI_ISL_672711,B.1.1.248,?,2020-04-11,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,19,Male
+EPI_ISL_672205,B.1.1.248,?,2020-06-22,20B,North America,USA,California,USA,California,Human,?,?
+EPI_ISL_717940,B.1.1.28,?,2020-10-30,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,66,Male
+EPI_ISL_717933,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,57,Female
+EPI_ISL_734199,B.1.369,MW406675.1,2020-11-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_722014,B.1.1.28,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,38,Female
+EPI_ISL_545180,B.1.369,?,2020-05-23,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_776753,B.1.1.28,?,2020-03-31,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,52,Male
+EPI_ISL_476347,B.1.1.248,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_728080,B.1.2,MW403598.1,2020-11-13,20G,North America,USA,Wisconsin,USA,Wisconsin,Human,?,?
+EPI_ISL_745827,B.1.1.28,MW420507.1,2020-08-10,20B,North America,USA,Utah,USA,Utah,Human,?,?
+EPI_ISL_547575,B.1.1,?,2020-06-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,60,Male
+EPI_ISL_534319,B.1.1.28,?,2020-05-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,93,Female
+EPI_ISL_717952,B.1.1.28,?,2020-11-04,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,33,Male
+EPI_ISL_523974,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,63,Male
+EPI_ISL_770629,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,32,Female
+EPI_ISL_470605,B.1.1.248,?,2020-04-02,20B,South America,Brazil,Para,Brazil,Para,Human,88,Male
+EPI_ISL_755654,B.1.1.143,?,2020-12-11,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,19,Female
+EPI_ISL_508266,B.1.1.248,?,2020-06-18,20B,Asia,India,Maharashtra,India,Maharashtra,Human,47,Female
+EPI_ISL_476165,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_776756,B.1.1.28,?,2020-04-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,48,Male
+EPI_ISL_717924,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,51,Male
+EPI_ISL_476373,B.1.1.248,?,2020-04-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_672741,B.1.1.248,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,45,Male
+EPI_ISL_770617,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,32,Female
+EPI_ISL_693245,B.1.1.248,?,2020-07-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,37,Male
+EPI_ISL_760881,B.1.1.28,?,2020-12-02,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_722015,B.1.1.94,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,55,Female
+EPI_ISL_445380,B.1.1.248,?,2020-03-30,20B,Asia,Thailand,Bangkok,Thailand,Bangkok,Human,?,?
+EPI_ISL_698126,A,?,2020-06-11,19B,Asia,United Arab Emirates,Abu Dhabi,United Arab Emirates,Abu Dhabi,Human,26,Male
+EPI_ISL_722036,B.1.1.28,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,29,Male
+EPI_ISL_717941,B.1.1.28,?,2020-10-30,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,62,Female
+EPI_ISL_734200,B.1.369,MW406676.1,2020-11-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_693232,B.1.1.248,?,2020-05-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,36,Female
+EPI_ISL_693210,B.1.1.248,?,2020-07-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,88,Male
+EPI_ISL_765586,B.1.369,?,2020-09-27,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_693234,B.1.1.248,?,2020-06-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,23,Female
+EPI_ISL_722017,B.1.1.28,?,2020-05-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,55,Male
+EPI_ISL_703236,B.1.1.28,?,2020-11-19,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_717928,B.1.1.28,?,2020-10-27,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,44,Male
+EPI_ISL_476260,B.1.1.248,?,2020-03-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_770620,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,32,Male
+EPI_ISL_717810,B.1.1.28,?,2020-04-14,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,?,?
+EPI_ISL_770589,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,51,Male
+EPI_ISL_717814,B.1.1.28,?,2020-09-03,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,36,Female
+EPI_ISL_735409,B.1.1.28,?,2020-06-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,85,Female
+EPI_ISL_751185,B.1.1.28,?,2020-07-20,20B,South America,Uruguay,Artigas,Uruguay,Artigas,Human,?,?
+EPI_ISL_527032,B.1.1.248,?,2020-07-04,20B,Oceania,Australia,New South Wales,Australia,New South Wales,Human,64,?
+EPI_ISL_767966,B.1,?,2020-12-18,20A,Europe,Switzerland,Aargau,Switzerland,Aargau,Human,?,?
+EPI_ISL_633085,B.1.369,MW243998.1,2020-10-17,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_770624,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,50,Female
+EPI_ISL_476391,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_515526,B.1.1,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Female
+EPI_ISL_722913,B.1.177,?,2020-10-28,20E (EU1),Europe,Italy,Basilicata,Italy,Basilicata,Human,62,Male
+EPI_ISL_717938,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,29,Male
+EPI_ISL_509500,B.1.1.143,?,2020-04-29,20B,Oceania,Australia,New South Wales,Australia,New South Wales,Human,44,Female
+EPI_ISL_574578,B.1.1.248,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,74,Female
+EPI_ISL_536688,B.1.1.73,MW035486.1,2020-08-27,20B,North America,USA,Wisconsin,USA,Wisconsin,Human,?,?
+EPI_ISL_693211,B.1.1.248,?,2020-07-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,61,Male
+EPI_ISL_755711,B.1.369,?,2020-11-24,20C,North America,Canada,Ontario,Canada,Ontario,Human,?,?
+EPI_ISL_755653,B.1.1.28,?,2020-12-12,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,64,Female
+EPI_ISL_476340,B.1.1.248,?,2020-04-18,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_476161,B.1.1.248,?,2020-04-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_756490,B.1.258,?,2020-12-17,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_717955,B.1.1.28,?,2020-11-05,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,30,Female
+EPI_ISL_729853,B.1.1.28,?,2020-08-12,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,36,Male
+EPI_ISL_534322,B.1.1.248,?,2020-04-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Male
+EPI_ISL_717828,B.1.1.28,?,2020-11-04,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,29,Male
+EPI_ISL_730783,B.1.177,?,2020-12-08,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_677212,B.1.1.28,MW338782.1,2020-11-12,20B,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_722019,B.1.1.28,?,2020-04-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,58,Female
+EPI_ISL_721996,B.1.1.28,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,38,Female
+EPI_ISL_468319,B.1.1.143,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,36,Male
+EPI_ISL_603035,B.1.1.143,?,2020-07-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,83,Female
+EPI_ISL_476408,B.1.1.248,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_476414,B.1.1.248,?,2020-04-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_456869,B.1.1.248,?,2020-05-08,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_722005,B.1.1.28,?,2020-04-07,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,53,Male
+EPI_ISL_730451,B.1.36.10,?,2020-10-12,20A,Asia,Jordan,Irbid,Jordan,Irbid,Human,?,Unknown
+EPI_ISL_717935,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,38,Female
+EPI_ISL_722006,B.1.1.28,?,2020-05-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,68,Male
+EPI_ISL_735396,B.1.1.28,?,2020-07-05,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,65,Female
+EPI_ISL_610590,B.1.177,?,2020-10-17,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_659449,B.1.258,?,2020-11-05,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_470600,B.1.1.248,?,2020-04-01,20B,South America,Brazil,Para,Brazil,Para,Human,42,Male
+EPI_ISL_613964,B.1.1.248,?,2020-03-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,50,Female
+EPI_ISL_468305,B.1.1,?,2020-04-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,69,Male
+EPI_ISL_603023,B.1.1.248,?,2020-06-07,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,87,Female
+EPI_ISL_775530,B.1.1.28,?,2020-12-17,20B,Europe,Norway,Viken,Norway,Viken,Human,?,?
+EPI_ISL_729748,B.1.1.28,?,2020-09-12,20B,North America,USA,Connecticut,USA,Connecticut,Human,?,?
+EPI_ISL_471545,B.1.1.248,?,2020-03-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,63,Female
+EPI_ISL_541444,B.1.160,?,2020-08-31,20A.EU2,Europe,Switzerland,Bern,Switzerland,Bern,Human,?,?
+EPI_ISL_476467,B.1.1.248,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_648302,B.1.324,MW280185.1,2020-10-26,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_732786,B.1.177,?,2020-10-27,20E (EU1),Europe,Spain,La Rioja,Spain,La Rioja,Human,6,Female
+EPI_ISL_765717,B.1.369,?,2020-09-06,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_721993,B.1.1.28,?,2020-04-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,31,Male
+EPI_ISL_476415,B.1.1.248,?,2020-04-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_770554,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,27,Female
+EPI_ISL_779161,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,18,Male
+EPI_ISL_603027,B.1.1.143,?,2020-06-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,53,Male
+EPI_ISL_515529,B.1.1.248,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,52,Male
+EPI_ISL_736895,B.1.1.28,?,2020-12,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_591402,B.1.1.248,?,2020-06,20B,Asia,Japan,Japan,South Korea,South Korea,Human,?,?
+EPI_ISL_735418,B.1.1.94,?,2020-06-27,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,1,Male
+EPI_ISL_534705,B.1.369,MW000360.1,2020-06-02,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_722011,B.1.1.28,?,2020-05-12,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,54,Female
+EPI_ISL_603037,B.1.1.248,?,2020-07-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,50,Male
+EPI_ISL_770611,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,50,Male
+EPI_ISL_476338,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_515563,B.1.1.248,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,77,Male
+EPI_ISL_735404,B.1.1.28,?,2020-07-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,42,Male
+EPI_ISL_770555,B.1.1.28,?,2020-11-23,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,23,Male
+EPI_ISL_693217,B.1.1.248,?,2020-07-05,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,66,Male
+EPI_ISL_728187,B.1.1.28,?,2020-12-04,20B,Asia,Singapore,Singapore,Singapore,Singapore,Human,32,Female
+EPI_ISL_603030,B.1.1.248,?,2020-07-11,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,54,Male
+EPI_ISL_717934,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,39,Female
+EPI_ISL_513557,B.1.1.248,?,2020-04-22,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,35,Female
+EPI_ISL_543360,B.1.324,?,2020-06-17,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_476366,B.1.1.248,?,2020-04-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_735405,B.1.1.143,?,2020-06-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,43,Female
+EPI_ISL_586553,B.1.186,?,2020-07-14,20A,Asia,India,Gujarat,India,Gujarat,Human,55,Male
+EPI_ISL_770622,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,60,Male
+EPI_ISL_603034,B.1.1.248,?,2020-07-11,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,51,Male
+EPI_ISL_476410,B.1.1.248,?,2020-04-28,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_672718,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,59,Male
+EPI_ISL_527859,B.1.1.28,?,2020-04-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,58,Female
+EPI_ISL_515542,B.1.1.94,?,2020-04-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,77,Male
+EPI_ISL_732252,B.1.1.28,?,2020-11-09,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_629039,B.1.369,MW240722.1,2020-10-06,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_770597,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,76,Male
+EPI_ISL_735428,B.1.1.28,?,2020-07-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,42,Male
+EPI_ISL_722026,B.1.1.28,?,2020-04-22,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,30,Male
+EPI_ISL_770573,B.1.1.28,?,2020-11-23,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,?,Male
+EPI_ISL_729854,B.1.1.28,?,2020-08-14,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,36,Female
+EPI_ISL_527856,B.1.1.248,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,83,Male
+EPI_ISL_651545,B.1.1.248,?,2020-10-22,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_527019,B.1.1.248,?,2020-07-02,20B,Oceania,Australia,New South Wales,Australia,New South Wales,Human,30,?
+EPI_ISL_672699,B.1.1.248,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,59,Male
+EPI_ISL_591537,B.1.1.248,?,2020-06,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_779156,B.1.1.28,?,2020-11-23,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,29,Female
+EPI_ISL_467366,B.1.1.248,?,2020-04-27,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,38,Male
+EPI_ISL_693233,B.1.1.248,?,2020-06-12,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,48,Female
+EPI_ISL_461606,B.1.1.248,?,2020-04-22,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_737409,B.1,?,2020-12-17,20A,Europe,Switzerland,Basel-Land,Switzerland,Basel-Land,Human,?,?
+EPI_ISL_672688,B.1.1.94,?,2020-04-13,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,77,Male
+EPI_ISL_524469,B.1.1.248,?,2020-05-05,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,67,Male
+EPI_ISL_754570,B.1.369,?,2020-12-10,20C,North America,USA,New York,USA,New York,Human,18,?
+EPI_ISL_770586,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,35,Female
+EPI_ISL_770616,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,29,Male
+EPI_ISL_667561,B.1.1.248,?,2020-07,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_717932,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,21,Male
+EPI_ISL_768652,B.1.1.28,?,2020-11,20B,Asia,Japan,Japan,United Kingdom,England,Human,?,?
+EPI_ISL_476321,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_755644,B.1.1.28,?,2020-12-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,39,Female
+EPI_ISL_717939,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,79,Male
+EPI_ISL_765705,B.1.369,?,2020-08-13,20C,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_717818,B.1.1.28,?,2020-10-08,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,56,Female
+EPI_ISL_734202,B.1.369,MW406678.1,2020-11-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_476261,B.1.1.248,?,2020-03-29,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_644899,B.1.369,MW280512.1,2020-10-07,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_574595,B.1.1.143,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,53,Female
+EPI_ISL_721999,B.1.1.28,?,2020-04-25,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,81,Female
+EPI_ISL_770598,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,80,Male
+EPI_ISL_515555,B.1.1.248,?,2020-03-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,37,Female
+EPI_ISL_770615,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,34,Female
+EPI_ISL_476390,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_770583,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,19,Female
+EPI_ISL_745855,B.1.1.28,MW420685.1,2020-08-10,20B,North America,USA,Utah,USA,Utah,Human,?,?
+EPI_ISL_717787,B.1.1.28,?,2020-06-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,42,Female
+EPI_ISL_722034,B.1.1.28,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,58,Male
+EPI_ISL_770593,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,50,Male
+EPI_ISL_470654,B.1.1.248,?,2020-03-18,20B,South America,Brazil,Santa Catarina,Brazil,Santa Catarina,Human,60,Female
+EPI_ISL_770590,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,44,Male
+EPI_ISL_476471,B.1.1.248,?,2020-03-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_770552,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,21,Male
+EPI_ISL_770605,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,32,Male
+EPI_ISL_652968,B.1,?,2020-10-22,20A,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_476244,B.1.1.248,?,2020-03-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_672687,B.1.1.248,?,2020-04-11,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,52,Female
+EPI_ISL_717937,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,32,Male
+EPI_ISL_482765,B.1,?,2020-04-30,20A,Africa,Egypt,Egypt,Egypt,Egypt,Human,33,Female
+EPI_ISL_693241,B.1.1.248,?,2020-06-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,40,Female
+EPI_ISL_693230,B.1.1.248,?,2020-06-13,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,37,Female
+EPI_ISL_534314,B.1.1.248,?,2020-05-04,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Male
+EPI_ISL_722048,B.1.1.28,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,46,Female
+EPI_ISL_693202,B.1.1.248,?,2020-04-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,50,Male
+EPI_ISL_779168,B.1.1.28,?,2020-11-27,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,61,Male
+EPI_ISL_523989,B.1.1.248,?,2020-04-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,67,Male
+EPI_ISL_717807,B.1.1.28,?,2020-11-05,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,41,Female
+EPI_ISL_543530,B.1.324,?,2020-06-20,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_547434,B.1.1.248,?,2020-07-22,20B,Europe,United Kingdom,Gibraltar,United Kingdom,Gibraltar,Human,38,Male
+EPI_ISL_722016,B.1.1.28,?,2020-04-28,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,53,Female
+EPI_ISL_638782,B.1.1.94,?,2020-10-12,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_717929,B.1.1.28,?,2020-10-27,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,44,Male
+EPI_ISL_722044,B.1.1.28,?,2020-04-24,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,24,Female
+EPI_ISL_476293,B.1.1.248,?,2020-04-02,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_668335,B.1.1.248,?,2020-11-14,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_476431,B.1.1.248,?,2020-03-21,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_476163,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_732052,B.1.1.28,?,2020-11-15,20B,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_669126,B.1.258,?,2020-11-09,20A,Europe,Denmark,Syddanmark,Denmark,Syddanmark,Human,?,?
+EPI_ISL_770600,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,39,Male
+EPI_ISL_722027,B.1.1.28,?,2020-04-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,44,Female
+EPI_ISL_672725,B.1.1.248,?,2020-04-17,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,72,Female
+EPI_ISL_693278,B.1.1.248,?,2020-03-21,20B,Oceania,Australia,Australia,Australia,Australia,Human,?,?
+EPI_ISL_770606,B.1.1.28,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,31,Male
+EPI_ISL_476389,B.1.1.248,?,2020-04-09,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_755650,B.1.1.28,?,2020-12-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,18,Female
+EPI_ISL_515524,B.1.1.248,?,2020-04-01,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,62,Male
+EPI_ISL_625040,B.1.177,?,2020-10-22,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_478249,B.1.1.28,?,2020-06-15,20B,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_776769,B.1.1.94,?,2020-11-30,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,51,Male
+EPI_ISL_524885,B.1.369,MT937821.1,2020-07-14,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_755648,B.1.1.28,?,2020-12-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,35,Female
+EPI_ISL_545376,B.1,?,2020-06-01,20C,North America,USA,Texas,USA,Texas,Human,?,?
+EPI_ISL_722033,B.1.1.28,?,2020-04-16,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,41,Female
+EPI_ISL_770610,B.1.1,?,2020-11-26,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,21,Female
+EPI_ISL_735406,B.1.1.28,?,2020-07-08,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,42,Female
+EPI_ISL_672693,B.1.1.248,?,2020-04-14,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,85,Male
+EPI_ISL_735411,B.1.1.28,?,2020-07-06,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,69,Female
+EPI_ISL_456088,B.1.1.248,?,2020-04-06,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,36,Female
+EPI_ISL_476456,B.1.1.248,?,2020-03-23,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_693214,B.1.1.248,?,2020-07-19,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,52,Male
+EPI_ISL_768709,B.1.1.28,?,2020-12,20B,Asia,Japan,Japan,Brazil,Brazil,Human,?,?
+EPI_ISL_770578,B.1.1.28,?,2020-11-24,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,30,Female
+EPI_ISL_427292,B.1.1.248,?,2020-03-18,20B,South America,Brazil,Alagoas,Brazil,Alagoas,Human,65,Male
+EPI_ISL_729856,B.1.1.28,?,2020-07-18,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,35,Female
+EPI_ISL_729754,B.1.1.28,?,2020-09-12,20B,North America,USA,Connecticut,USA,Connecticut,Human,?,?
+EPI_ISL_775528,B.1.1.28,?,2020-12-17,20B,Europe,Norway,Viken,Norway,Viken,Human,?,?
+EPI_ISL_667663,B.1.1.248,?,2020-09,20B,Asia,Japan,Japan,Philippines,Philippines,Human,?,?
+EPI_ISL_693216,B.1.1.248,?,2020-07-05,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,47,Female
+EPI_ISL_471539,B.1.1.143,?,2020-03-19,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,49,Male
+EPI_ISL_756294,B.1.1.28,?,2020-10-26,20B,South America,Brazil,Bahia,Brazil,Bahia,Human,45,Female
+EPI_ISL_515562,B.1.1.248,?,2020-04-13,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,59,Female
+EPI_ISL_476411,B.1.1.248,?,2020-04-28,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?
+EPI_ISL_770596,B.1.1.28,?,2020-11-25,20B,South America,Brazil,Rio Grande do Sul,Brazil,Rio Grande do Sul,Human,33,Female
+EPI_ISL_717922,B.1.1.28,?,2020-10-29,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,25,Male
+EPI_ISL_614023,B.1.240,MW217337.1,2020-08-17,20A,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_515560,B.1.1.94,?,2020-04-19,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,70,Male
+EPI_ISL_678320,B.1.1.248,?,2020-06-12,20B,Oceania,Australia,New South Wales,Australia,New South Wales,Human,2,?
+EPI_ISL_722007,B.1.1.28,?,2020-05-12,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,30,Male
+EPI_ISL_490026,B.1.1.248,?,2020-06-12,20B,Oceania,Australia,New South Wales,Australia,New South Wales,Human,?,?
+EPI_ISL_776766,B.1.1.28,?,2020-11-26,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,56,Male
+EPI_ISL_471546,B.1.1.248,?,2020-03-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,77,Male
+EPI_ISL_524463,B.1.1.248,?,2020-03-20,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,74,Female
+EPI_ISL_755651,B.1.1,?,2020-12-10,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,37,Male
+EPI_ISL_547582,B.1.1.73,?,2020-08-26,20B,North America,USA,Wisconsin,USA,Wisconsin,Human,?,?
+EPI_ISL_513578,B.1.1.248,?,2020-05-04,20B,South America,Brazil,Rio de Janeiro,Brazil,Rio de Janeiro,Human,57,Male
+EPI_ISL_476250,B.1.1.94,?,2020-03-27,20B,South America,Brazil,São Paulo,Brazil,São Paulo,Human,?,?

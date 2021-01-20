@@ -1,0 +1,51 @@
+GISAID_Accession,GISAID_clade,Genebank_accession,Date,Clade,Region,Country,Division,Country of exposure,Division of exposure,Host,Age,Sex
+EPI_ISL_668193,B.1.1.1,?,2020-11-14,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_730558,B.1.1.1,?,2020-11-06,20D,Asia,Jordan,Amman,Jordan,Amman,Human,?,Unknown
+EPI_ISL_761654,B.1.1.1,?,2020-12-18,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_777918,B.1.1.1,?,2020-12-18,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_739793,B.1.1.1,?,2020-11-27,20D,Europe,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Human,59,Female
+EPI_ISL_706285,B.1.1.1,?,2020-11-29,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_775542,B.1.1.1,?,2020-12-11,20D,Europe,Sweden,Stockholm,Sweden,Stockholm,Human,15,Male
+EPI_ISL_645714,B.1.1.1,?,2020-11-01,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_611387,B.1.1.1,?,2020-10-20,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_626279,B.1.1.1,?,2020-10-23,20D,Europe,Belgium,Liège,Belgium,Liège,Human,47,Male
+EPI_ISL_735674,B.1.1.1,?,2020-12-13,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_718936,B.1.1.1,?,2020-12-11,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_741846,B.1.1.1,?,2020-11-14,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_751080,B.1.1.1,?,2020-12-14,20D,Europe,Denmark,Sjaelland,Denmark,Sjaelland,Human,?,?
+EPI_ISL_630850,B.1.1.1,?,2020-10-22,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_681265,B.1.1.1,?,2020-10-26,20D,Europe,Belgium,Liège,Belgium,Liège,Human,35,Female
+EPI_ISL_740413,B.1.1.1,?,2020-11-24,20D,Europe,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Human,57,Male
+EPI_ISL_758536,B.1.1.1,?,2020-12-14,20D,Europe,Denmark,Hovedstaden,Denmark,Hovedstaden,Human,?,?
+EPI_ISL_662314,B.1.1.1,?,2020-11-11,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_762012,B.1.1.1,?,2020-12-17,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_658554,B.1.1.1,?,2020-11-08,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_731354,B.1.1.1,?,2020-12-11,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_704447,B.1.1.1,?,2020-11-26,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_760394,B.1.1.1,?,2020-12-22,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_757894,B.1.1.1,?,2020-12-14,20D,Europe,Denmark,Hovedstaden,Denmark,Hovedstaden,Human,?,?
+EPI_ISL_736774,C.6,?,2020-12-11,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_732042,B.1.1.1,?,2020-11-14,20D,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_732192,B.1.1.1,?,2020-11-24,20D,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_735552,B.1.1.1,?,2020-12-13,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_662287,B.1.1.1,?,2020-11-11,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_750085,B.1.1.1,?,2020-12-07,20D,Europe,Denmark,Sjaelland,Denmark,Sjaelland,Human,?,?
+EPI_ISL_741913,B.1.1.1,?,2020-11-14,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_753308,B.1.2,?,2020-11-13,20G,North America,USA,California,USA,California,Human,?,Female
+EPI_ISL_750551,B.1.1.1,?,2020-12-14,20D,Europe,Denmark,Hovedstaden,Denmark,Hovedstaden,Human,?,?
+EPI_ISL_762181,B.1.1.1,?,2020-12-18,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_730759,B.1.1.1,?,2020-12-11,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_703981,B.1.1.1,?,2020-11-27,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_719685,B.1.1.1,?,2020-11-18,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_756512,B.1.1.1,?,2020-12-17,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_708455,B.1.1.1,?,2020-10-25,20D,Europe,Belgium,Liège,Belgium,Liège,Human,80,Male
+EPI_ISL_626289,B.1.1.1,?,2020-10-23,20D,Europe,Belgium,Liège,Belgium,Liège,Human,36,Female
+EPI_ISL_736214,B.1.1.1,?,2020-12-12,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_738900,B.1.2,?,2020-11-14,20G,North America,USA,California,USA,California,Human,?,?
+EPI_ISL_661243,B.1.1.1,?,2020-11-16,20D,Europe,Belgium,Liège,Belgium,Liège,Human,53,Male
+EPI_ISL_732047,B.1.1.1,?,2020-11-15,20D,Europe,Portugal,Portugal,Portugal,Portugal,Human,?,?
+EPI_ISL_761239,B.1.1.1,?,2020-12-20,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_750911,B.1.1.1,?,2020-12-14,20D,Europe,Denmark,Hovedstaden,Denmark,Hovedstaden,Human,?,?
+EPI_ISL_737818,B.1.1.1,?,2020-12-17,20D,Europe,Switzerland,Thurgau,Switzerland,Thurgau,Human,?,?
+EPI_ISL_767989,B.1.1.1,?,2020-12-18,20D,Europe,Switzerland,Bern,Switzerland,Bern,Human,?,?
+EPI_ISL_768646,B.1.1.1,?,2020-10,20D,Asia,Japan,Japan,United Kingdom,England,Human,?,?

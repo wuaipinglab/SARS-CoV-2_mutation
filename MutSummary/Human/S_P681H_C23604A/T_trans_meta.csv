@@ -1,0 +1,109 @@
+GISAID_Accession,GISAID_clade,Genebank_accession,Date,Clade,Region,Country,Division,Country of exposure,Division of exposure,Host,Age,Sex
+EPI_ISL_722442,B.1.36,?,2020-10-23,20A,Europe,Netherlands,Gelderland,Netherlands,Gelderland,Human,?,?
+EPI_ISL_678537,B.1.275,?,2020-04-27,20A,Europe,France,Auvergne-Rhône-Alpes,France,Auvergne-Rhône-Alpes,Human,32,Female
+EPI_ISL_722447,B.1.36,?,2020-11-12,20A,Europe,Netherlands,Gelderland,Netherlands,Gelderland,Human,?,?
+EPI_ISL_692512,B.1.1.284,?,2020-07,20B,Asia,Japan,Japan,Japan,Japan,Human,?,?
+EPI_ISL_434604,B.1.3,MT418892.1,2020-04-08,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_496267,B.1.1.26,MT834050.1,2020-05-27,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_722444,B.1.36,?,2020-10-29,20A,Europe,Netherlands,Gelderland,Netherlands,Gelderland,Human,?,?
+EPI_ISL_497605,B.1.1.26,MT831288.1,2020-06-08,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_454434,B.1.3,?,2020-03-15,20C,North America,USA,Maryland,USA,Maryland,Human,?,?
+EPI_ISL_771246,B.1,?,2020-11-11,20C,North America,USA,Colorado,USA,Colorado,Human,?,?
+EPI_ISL_497201,B.1.1.26,MT831820.1,2020-06-18,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_644084,B.1.1.37,?,2020-10-21,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_495698,B.1.1.26,MT821733.1,2020-05-11,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_434602,B.1.3,MT418890.1,2020-04-08,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_497004,B.1.1.26,MT831813.1,2020-06-10,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_742522,B.1.177.15,?,2020-12-07,20E (EU1),Europe,United Kingdom,Wales,United Kingdom,Wales,Human,?,?
+EPI_ISL_677300,B.1,?,2020-08-16,20C,North America,USA,Colorado,USA,Colorado,Human,?,?
+EPI_ISL_613460,B.1.1.71,MW199149.1,2020-06-21,20B,Europe,Turkey,Turkey,Turkey,Turkey,Human,?,?
+EPI_ISL_692518,B.1.1.284,?,2020-07,20B,Asia,Japan,Japan,Japan,Japan,Human,?,?
+EPI_ISL_496960,B.1.1.26,MT831861.1,2020-06-10,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497429,B.1.1.26,MT831204.1,2020-06-04,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497530,B.1.1.26,MT831334.1,2020-06-06,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_570661,B.1,?,2020-08-07,20C,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_463104,B.1.3,MT609567.1,2020-05-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_563431,D.2,?,2020-07-25,20F,Oceania,Australia,Victoria,Australia,Victoria,Human,33,Male
+EPI_ISL_581971,B.1,?,2020-08-18,20A,Europe,Switzerland,Basel-Stadt,Switzerland,Basel-Stadt,Human,?,Male
+EPI_ISL_584989,B.1.1.308,?,2020-09-30,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_532984,B.1.258,?,2020-07-14,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_496136,B.1.1.26,MT834162.1,2020-05-31,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_495298,B.1.3,MT791935.1,2020-04-07,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_689965,B.1.1.284,?,2020-07,20B,Asia,Japan,Japan,Japan,Japan,Human,?,?
+EPI_ISL_495987,B.1.1.26,MT833999.1,2020-05-26,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497335,B.1.1.26,MT831784.1,2020-06-22,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_440425,B.1,?,2020-03-16,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_525925,B.1,?,2020-06-01,20A,North America,USA,Oregon,USA,Oregon,Human,31,Female
+EPI_ISL_496177,B.1.1.26,MT833996.1,2020-06-01,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497105,B.1.1.26,MT831830.1,2020-06-16,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_632482,B.1.36,?,2020-10-21,20A,Europe,Netherlands,Gelderland,Netherlands,Gelderland,Human,?,?
+EPI_ISL_526789,B.1.3,MT951936.1,2020-05-08,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_710263,B.1,?,2020-09-04,20C,North America,USA,Colorado,USA,Colorado,Human,?,?
+EPI_ISL_692517,B.1.1.284,?,2020-07,20B,Asia,Japan,Japan,Japan,Japan,Human,?,?
+EPI_ISL_539845,B.1,MW020082.1,2020-08-17,20C,North America,USA,Minnesota,USA,Minnesota,Human,?,?
+EPI_ISL_607717,B.1.1.311,?,2020-10-15,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_509133,B.1,?,2020-05-24,20A,North America,USA,Oregon,USA,Oregon,Human,55,Female
+EPI_ISL_429018,B.1.3,MT385442.1,2020-04-03,20C,North America,USA,California,USA,California,Human,?,?
+EPI_ISL_497716,B.1.1.26,MT831418.1,2020-06-10,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497356,B.1.1.26,MT831432.1,2020-06-03,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497375,B.1.1.26,MT831374.1,2020-06-02,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_692516,B.1.1.284,?,2020-07,20B,Asia,Japan,Japan,Japan,Japan,Human,?,?
+EPI_ISL_526779,B.1.3,MT951928.1,2020-05-06,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_495983,B.1.1.26,MT834146.1,2020-05-26,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_530206,B.1.330,MT997728.1,2020-04-28,20C,North America,USA,Minnesota,USA,Minnesota,Human,?,?
+EPI_ISL_497002,B.1.1.26,MT831871.1,2020-06-11,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_761146,B.1.177,?,2020-12-17,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_497223,B.1.1.26,MT831723.1,2020-06-18,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_463105,B.1.3,MT609568.1,2020-05-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_452820,B.1.3,MT558671.1,2020-04-16,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_723514,B.1.262,MW411892.1,2020-11-16,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_732667,B.1.1,?,2020-11-06,20B,Europe,Russia,Moscow Oblast,Russia,Moscow Oblast,Human,52,Female
+EPI_ISL_473516,B.1.5,?,2020-04-16,20A,Europe,United Kingdom,Scotland,United Kingdom,Scotland,Human,?,?
+EPI_ISL_497665,B.1.1.26,MT831279.1,2020-06-09,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_496125,B.1.1.26,MT834154.1,2020-05-31,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_452822,B.1.3,MT558673.1,2020-04-17,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_629282,B.1.1.37,?,2020-10-21,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_496175,B.1.1.26,MT834141.1,2020-06-01,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_722463,B.1.36,?,2020-09-09,20A,Europe,Netherlands,Overijssel,Netherlands,Overijssel,Human,?,?
+EPI_ISL_452817,B.1.3,MT558668.1,2020-04-16,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_463106,B.1.3,MT609569.1,2020-05-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_765682,B.1.1.1,?,2020-07-22,20D,North America,USA,Massachusetts,USA,Massachusetts,Human,?,?
+EPI_ISL_434603,B.1.3,MT418891.1,2020-04-08,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_480689,B.6,?,2020-06-12,19A,Oceania,Australia,Victoria,Australia,Victoria,Human,29,Female
+EPI_ISL_776678,B.1.1.26,?,2020-07-07,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_590503,B.1.1.1,?,2020-09-03,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_452821,B.1.3,MT558672.1,2020-04-16,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_496995,B.1.1.26,MT831774.1,2020-06-10,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497231,B.1,?,2020-06-19,20A,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_633539,B.1.1,?,2020-10-26,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_452816,B.1.3,MT558667.1,2020-04-16,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_497022,B.1.1.26,MT831808.1,2020-06-14,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_452819,B.1.3,MT558670.1,2020-04-16,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_463102,B.1.3,?,2020-05-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_662506,B.1.1.307,?,2020-11-11,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_722453,B.1.36,?,2020-11-09,20A,Europe,Netherlands,Gelderland,Netherlands,Gelderland,Human,?,?
+EPI_ISL_440265,B.1,?,2020-03-22,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_497146,B.1.1.26,MT831805.1,2020-06-15,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_590543,B.1.1.1,?,2020-09-03,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_643209,B.1.1.37,?,2020-10-15,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_496992,B.1.1.26,MT831819.1,2020-06-11,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_540935,B.1.1.1,?,2020-06-17,20D,South America,Peru,Callao,Peru,Callao,Human,73,Male
+EPI_ISL_452818,B.1.3,MT558669.1,2020-04-16,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_570270,B.1.169,?,2020-06-02,20A,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497447,B.1.1.26,MT831165.1,2020-06-05,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497684,B.1.1.26,MT831301.1,2020-06-09,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_496210,B.1.1.26,MT834269.1,2020-06-02,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497633,B.1.1.26,MT831414.1,2020-06-08,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_560792,B.1,MW052680.1,2020-08-20,20C,North America,USA,Minnesota,USA,Minnesota,Human,?,?
+EPI_ISL_723512,B.1.262,MW411890.1,2020-11-16,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_496257,B.1.1.26,MT834165.1,2020-05-27,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_497195,B.1.1.26,MT831599.1,2020-06-17,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_463103,B.1.3,MT609566.1,2020-05-18,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_751770,B.1.234,?,2020-12-04,20A,North America,USA,Indiana,USA,Indiana,Human,71,Female
+EPI_ISL_440369,B.1,?,2020-03-20,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_624151,B.1.36.17,?,2020-10-22,20A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_496220,B.1.1.26,MT834093.1,2020-06-02,20B,North America,USA,Washington,USA,Washington,Human,?,?
+EPI_ISL_599419,B.1.177,?,2020-10-03,20E (EU1),Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_698676,B.1.1,?,2020-05-18,20B,Asia,United Arab Emirates,Abu Dhabi,United Arab Emirates,Abu Dhabi,Human,?,?
+EPI_ISL_677302,B.1,?,2020-08-16,20C,North America,USA,Colorado,USA,Colorado,Human,?,?
+EPI_ISL_434601,B.1.3,MT418889.1,2020-04-08,20C,North America,USA,Virginia,USA,Virginia,Human,?,?

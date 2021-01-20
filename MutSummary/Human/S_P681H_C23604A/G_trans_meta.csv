@@ -1,0 +1,119 @@
+GISAID_Accession,GISAID_clade,Genebank_accession,Date,Clade,Region,Country,Division,Country of exposure,Division of exposure,Host,Age,Sex
+EPI_ISL_756569,A,?,2020-12-16,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_719243,A,?,2020-12-10,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_622825,B.1.1,?,2020-10-25,20B,Oceania,New Zealand,Canterbury,New Zealand,Canterbury,Human,?,Male
+EPI_ISL_603246,B.1.1.103,?,2020-10-05,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,44,Male
+EPI_ISL_667719,B.1.1.103,?,2020-11,20B,Asia,Japan,Japan,Bangladesh,Bangladesh,Human,?,?
+EPI_ISL_760420,B.1.1.7,?,2020-12-22,20I/501Y.V1,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_734435,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,36,?
+EPI_ISL_768713,B.1.160,?,2020-12,20A,Asia,Japan,Japan,Indonesia,Indonesia,Human,?,?
+EPI_ISL_734436,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,61,Male
+EPI_ISL_747283,B.1.1.103,?,2020-12-06,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,30,Male
+EPI_ISL_622826,B.1.1,?,2020-10-25,20B,Oceania,New Zealand,Canterbury,New Zealand,Canterbury,Human,?,Male
+EPI_ISL_760939,B.1.1.103,?,2020-12-09,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_753602,B.1.5,?,2020-12-03,20A,North America,USA,California,USA,California,Human,?,Female
+EPI_ISL_733065,B.1.1,?,2020-09-27,20B,Europe,Russia,Moscow Oblast,Russia,Moscow Oblast,Human,63,Female
+EPI_ISL_768677,B.1.1.103,?,2020-12,20B,Asia,Japan,Japan,Bangladesh,Bangladesh,Human,?,?
+EPI_ISL_730916,A,?,2020-12-08,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_730360,B.1.5,?,2020-12-03,20A,North America,USA,California,USA,California,Human,?,Unknown
+EPI_ISL_756390,A,?,2020-12-16,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_762882,A,?,2020-12-16,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_775019,B.1.1.103,?,2020-12-05,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,48,Male
+EPI_ISL_778402,B.1.1.7,?,2020-12-13,20I/501Y.V1,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_731426,A,?,2020-12-11,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_776847,B.1.1.50,?,2020-12-27,20B,Asia,Israel,Israel,Israel,Israel,Human,63,Male
+EPI_ISL_721597,B.1.1.103,?,2020-11,20B,Asia,Japan,Japan,Qatar,Qatar,Human,?,?
+EPI_ISL_568522,C.14,?,2020-08-27,20D,South America,Peru,Lima,Peru,Lima,Human,44,Female
+EPI_ISL_777584,A,?,2020-12-15,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_734438,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,36,?
+EPI_ISL_768678,B.1.1.103,?,2020-12,20B,Asia,Japan,Japan,Bangladesh,Bangladesh,Human,?,?
+EPI_ISL_671719,B.1.1.103,?,2020-10-27,20B,North America,USA,New York,USA,New York,Human,45,Female
+EPI_ISL_734446,B.1.5,?,2020-11-11,20A,North America,USA,New York,USA,New York,Human,49,?
+EPI_ISL_733046,B.1.1,?,2020-09-17,20B,Europe,Russia,Moscow Oblast,Russia,Moscow Oblast,Human,47,Male
+EPI_ISL_777316,A,?,2020-12-16,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_648378,B.1.192,?,2020-07-26,20A,Africa,Equatorial Guinea,Bioko Norte,Equatorial Guinea,Bioko Norte,Human,46,Female
+EPI_ISL_702206,A,?,2020-11-27,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_732975,B.1.1.220,?,2020-11-16,20B,Europe,Russia,Karelia,Russia,Karelia,Human,56,Female
+EPI_ISL_730363,B.1.5,?,2020-12-03,20A,North America,USA,California,USA,California,Human,?,Unknown
+EPI_ISL_755292,B.1.5,?,2020-11-25,20A,North America,USA,California,USA,California,Human,?,Unknown
+EPI_ISL_768932,A,?,2020-12-16,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_603239,B.1.1.103,?,2020-10-08,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,42,Male
+EPI_ISL_702648,B.1.1,?,2020-11-20,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_735501,B.1.1.103,?,2020-08-23,20B,Asia,Bangladesh,Chattogram,Bangladesh,Chattogram,Human,34,Female
+EPI_ISL_622784,B.1.1,?,2020-10-22,20B,Oceania,New Zealand,Canterbury,New Zealand,Canterbury,Human,?,Male
+EPI_ISL_736356,A,?,2020-12-11,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_622828,B.1.1,?,2020-10-31,20B,Oceania,New Zealand,Canterbury,New Zealand,Canterbury,Human,?,Male
+EPI_ISL_734444,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,41,?
+EPI_ISL_733373,B.1.1,?,2020-11-12,20B,Europe,Russia,Novgorod,Russia,Novgorod,Human,33,Female
+EPI_ISL_703645,B.1.1.103,?,2020-11-24,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_648330,B.1.192,?,2020-07-16,20A,Africa,Equatorial Guinea,Bioko Norte,Equatorial Guinea,Bioko Norte,Human,67,Female
+EPI_ISL_760809,A,?,2020-12-06,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_768324,B.1.160,?,2020-12-30,20A,Asia,Singapore,Singapore,Singapore,Singapore,Human,47,Male
+EPI_ISL_730366,B.1.5,?,2020-12-03,20A,North America,USA,California,USA,California,Human,?,Unknown
+EPI_ISL_754179,B.1.1.103,?,2020-11-12,20B,Asia,Bangladesh,Sylhet,Bangladesh,Sylhet,Human,41,Male
+EPI_ISL_760634,A,?,2020-12-21,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_760572,A,?,2020-12-20,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_730735,B.1.1,?,2020-12-09,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_774990,B.1.1.103,?,2020-06-29,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,55,Male
+EPI_ISL_731435,B.1.1.103,?,2020-12-10,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_774954,B.1.1.103,?,2020-06-28,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,67,Female
+EPI_ISL_775020,B.1.1.103,?,2020-12-08,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,21,Female
+EPI_ISL_753700,B.1.1.103,?,2020-12-02,20B,Asia,Bangladesh,Sylhet,Bangladesh,Sylhet,Human,68,Male
+EPI_ISL_741244,B.1.1.1,?,2020-12-11,20D,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_648363,B.1.192,?,2020-06-11,20A,Africa,Equatorial Guinea,Bioko Norte,Equatorial Guinea,Bioko Norte,Human,39,Male
+EPI_ISL_753477,B.1.5,?,2020-11-30,20A,North America,USA,California,USA,California,Human,?,Female
+EPI_ISL_753697,B.1.1.103,?,2020-12-02,20B,Asia,Bangladesh,Sylhet,Bangladesh,Sylhet,Human,58,Female
+EPI_ISL_734440,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,33,?
+EPI_ISL_754173,B.1.1.103,?,2020-11-25,20B,Asia,Bangladesh,Sylhet,Bangladesh,Sylhet,Human,26,Male
+EPI_ISL_745141,B.1.1.34,?,2020-12-07,20B,Africa,South Africa,Western Cape Province,South Africa,Western Cape Province,Human,50,Male
+EPI_ISL_617056,B.1.1.298,?,2020-10-26,20B,Europe,Denmark,Sjaelland,Denmark,Sjaelland,Human,?,?
+EPI_ISL_603238,B.1.1.103,?,2020-10-14,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,50,Male
+EPI_ISL_733035,B.1.1.119,?,2020-09-21,20B,Europe,Russia,Sverdlovsk,Russia,Sverdlovsk,Human,63,Female
+EPI_ISL_777970,B.1.1.103,?,2020-12-18,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_735961,A,?,2020-12-14,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_768711,B.1.1.103,?,2020-12,20B,Asia,Japan,Japan,Bangladesh,Bangladesh,Human,?,?
+EPI_ISL_774953,B.1.1.103,?,2020-06-28,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,33,Male
+EPI_ISL_622811,B.1.1,?,2020-10-22,20B,Oceania,New Zealand,Canterbury,New Zealand,Canterbury,Human,?,Male
+EPI_ISL_667804,B.1.1.103,?,2020-11-09,20B,Oceania,Australia,New South Wales,Australia,New South Wales,Human,?,?
+EPI_ISL_775213,B.1.1.103,?,2020-12-08,20B,Asia,Bangladesh,Chattogram,Bangladesh,Chattogram,Human,62,Male
+EPI_ISL_738812,B.1.5,?,2020-11-23,20A,North America,USA,California,USA,California,Human,?,?
+EPI_ISL_756647,A,?,2020-12-16,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_734433,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,66,?
+EPI_ISL_761899,A,?,2020-12-20,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_730750,A,?,2020-12-10,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_603244,B.1.1.103,?,2020-10-10,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,43,Female
+EPI_ISL_777224,A,?,2020-12-12,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_755172,B.1.5,?,2020-12-14,20A,North America,USA,California,USA,California,Human,?,Unknown
+EPI_ISL_674854,B.1.1,?,2020-11-14,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_734443,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,35,?
+EPI_ISL_753413,B.1.5,?,2020-11-30,20A,North America,USA,California,USA,California,Human,?,Female
+EPI_ISL_733155,B.1.1,?,2020-10-13,20B,Europe,Russia,Republic of Mordovia,Russia,Republic of Mordovia,Human,36,Female
+EPI_ISL_734439,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,30,?
+EPI_ISL_622813,B.1.1,?,2020-10-22,20B,Oceania,New Zealand,Canterbury,New Zealand,Canterbury,Human,?,Male
+EPI_ISL_760863,A,?,2020-12-06,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_774960,B.1.1.103,?,2020-06-28,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,46,Male
+EPI_ISL_682280,B.1.1.103,?,2020-11-21,20B,Oceania,New Zealand,Auckland,New Zealand,Auckland,Human,?,Female
+EPI_ISL_735494,B.1.1.103,?,2020-11-24,20B,Asia,Bangladesh,Chattogram,Bangladesh,Chattogram,Human,57,Male
+EPI_ISL_769660,A,?,2020-12-12,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_735490,B.1.1.103,?,2020-11-26,20B,Asia,Bangladesh,Chattogram,Bangladesh,Chattogram,Human,50,Male
+EPI_ISL_777091,A,?,2020-12-14,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_735500,B.1.1.103,?,2020-12-02,20B,Asia,Bangladesh,Chattogram,Bangladesh,Chattogram,Human,59,Male
+EPI_ISL_735493,B.1.1.103,?,2020-11-22,20B,Asia,Bangladesh,Chattogram,Bangladesh,Chattogram,Human,70,Male
+EPI_ISL_774998,B.1.1.103,?,2020-06-28,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,25,Male
+EPI_ISL_768602,B.1.1.1,?,2020-12-28,20D,Oceania,Australia,New South Wales,Australia,New South Wales,Human,?,?
+EPI_ISL_718548,B.1.1.7,?,2020-12-10,20I/501Y.V1,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_702870,B.1.1.103,?,2020-12-03,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_762659,A,?,2020-12-16,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_603243,B.1.1.103,?,2020-10-10,20B,Asia,Bangladesh,Dhaka,Bangladesh,Dhaka,Human,35,Male
+EPI_ISL_682281,B.1.1.103,?,2020-11-21,20B,Oceania,New Zealand,Auckland,New Zealand,Auckland,Human,?,Female
+EPI_ISL_738842,B.1.5,?,2020-11-18,20A,North America,USA,California,USA,California,Human,?,?
+EPI_ISL_733930,B.1.1.103,?,2020-12-10,20B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_768681,B.1.369,?,2020-12,20C,Asia,Japan,Japan,India,India,Human,?,?
+EPI_ISL_736033,B.1.1.7,?,2020-12-14,20I/501Y.V1,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_648328,B.1.192,?,2020-07-15,20A,Africa,Equatorial Guinea,Bioko Norte,Equatorial Guinea,Bioko Norte,Human,23,Male
+EPI_ISL_734288,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,28,?
+EPI_ISL_596281,B.1.1,?,2020-09-11,20B,Europe,Russia,Saint-Petersburg,Russia,Saint-Petersburg,Human,63,Male
+EPI_ISL_622786,B.1.1,?,2020-11-02,20B,Oceania,New Zealand,Canterbury,New Zealand,Canterbury,Human,?,Female
+EPI_ISL_734295,B.1.5,?,2020-11-10,20A,North America,USA,New York,USA,New York,Human,38,?
+EPI_ISL_760954,A,?,2020-12-06,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_718938,A,?,2020-12-10,19B,Europe,United Kingdom,England,United Kingdom,England,Human,?,?

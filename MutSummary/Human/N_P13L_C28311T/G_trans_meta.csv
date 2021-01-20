@@ -1,0 +1,19 @@
+GISAID_Accession,GISAID_clade,Genebank_accession,Date,Clade,Region,Country,Division,Country of exposure,Division of exposure,Host,Age,Sex
+EPI_ISL_457283,B.4,?,2020-04-16,19A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_765942,B.1.370,?,2020-10-31,20C,North America,USA,Arizona,USA,Arizona,Human,?,?
+EPI_ISL_639973,B.1.1,?,2020-09-24,20B,Europe,Russia,Sverdlovsk,Russia,Sverdlovsk,Human,46,Female
+EPI_ISL_721621,B.1.370,?,2020-11,20C,Asia,Japan,Japan,USA,USA,Human,?,?
+EPI_ISL_447019,B.4,?,2020-04-01,19A,Asia,Thailand,Bangkok,Thailand,Bangkok,Human,?,?
+EPI_ISL_447025,B.4,?,2020-04-02,19A,Asia,Thailand,Bangkok,Thailand,Bangkok,Human,?,?
+EPI_ISL_754646,B.1.370,?,2020-12-15,20C,North America,USA,Wisconsin,USA,Wisconsin,Human,?,?
+EPI_ISL_524634,B.4,?,2020-04-03,19A,Europe,United Kingdom,England,United Kingdom,England,Human,?,?
+EPI_ISL_771165,B.1.370,?,2020-11-21,20C,North America,USA,Colorado,USA,Colorado,Human,?,?
+EPI_ISL_667733,B.1.370,?,2020-11,20C,Asia,Japan,Japan,USA,USA,Human,?,?
+EPI_ISL_529936,B.1,MT992751.1,2020-06-23,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_671725,B.1.370,?,2020-10-23,20C,North America,USA,New York,USA,New York,Human,40,Male
+EPI_ISL_572258,B.1,MW067682.1,2020-06-30,20C,North America,USA,Virginia,USA,Virginia,Human,?,?
+EPI_ISL_429175,B.4,?,2020-03-28,19A,Asia,Thailand,Bangkok,Thailand,Bangkok,Human,?,?
+EPI_ISL_755176,B.1.370,?,2020-12-14,20C,North America,USA,California,USA,California,Human,?,Unknown
+EPI_ISL_771157,B.1.370,?,2020-11-21,20C,North America,USA,Colorado,USA,Colorado,Human,?,?
+EPI_ISL_560456,B.1.9,LR882780.1,2020-09-07,20A,Europe,Switzerland,Basel-Land,Switzerland,Basel-Land,Human,?,?
+EPI_ISL_683966,B.1.370,?,2020-11-10,20C,North America,USA,New York,USA,New York,Human,19,Male
